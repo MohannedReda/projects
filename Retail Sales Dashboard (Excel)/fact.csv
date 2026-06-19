@@ -1,0 +1,1201 @@
+Order_ID,Date,Branch,Product_Category,Quantity,Unit_Price,Payment_Method,Total_Sales
+ORD-5000,4/12/2025 0:00,Mansoura,Kitchenware,12,138,Cash,1656
+ORD-5001,5/16/2025 0:00,Alexandria,Kitchenware,8,459.59,Cash,3676.72
+ORD-5002,6/7/2025 0:00,Alexandria,Furniture,4,379.72,Credit Card,1518.88
+ORD-5003,10/15/2025 0:00,Alexandria,Electronics,11,474.4,Credit Card,5218.4
+ORD-5004,3/16/2025 0:00,Alexandria,Home Decor,13,220.92,Credit Card,2871.96
+ORD-5005,5/16/2025 0:00,Cairo,Kitchenware,11,418.92,Mobile Wallet,4608.12
+ORD-5006,1/12/2025 0:00,Mansoura,Kitchenware,8,142.2,Credit Card,1137.6
+ORD-5007,1/22/2025 0:00,Alexandria,Furniture,2,290.22,Mobile Wallet,580.44
+ORD-5008,8/12/2025 0:00,Giza,Furniture,5,213.68,Cash,1068.4
+ORD-5009,8/18/2025 0:00,Alexandria,Electronics,3,385.39,Mobile Wallet,1156.17
+ORD-5010,1/5/2025 0:00,Alexandria,Kitchenware,2,256.01,Credit Card,512.02
+ORD-5011,10/17/2025 0:00,Alexandria,Furniture,8,324.98,Cash,2599.84
+ORD-5012,3/1/2025 0:00,Cairo,Electronics,2,78.39,Credit Card,156.78
+ORD-5013,6/24/2025 0:00,Alexandria,Electronics,5,194.97,Cash,974.85
+ORD-5014,2/22/2025 0:00,Mansoura,Furniture,13,126.49,Cash,1644.37
+ORD-5015,6/26/2025 0:00,Alexandria,Kitchenware,15,103.7,Cash,1555.5
+ORD-5016,2/8/2025 0:00,Giza,Electronics,1,156.66,Credit Card,156.66
+ORD-5017,10/21/2025 0:00,Giza,Kitchenware,8,113,Cash,904
+ORD-5018,12/15/2025 0:00,Cairo,Electronics,2,352.78,Credit Card,705.56
+ORD-5019,4/2/2025 0:00,Cairo,Furniture,3,305.24,Credit Card,915.72
+ORD-5020,4/23/2025 0:00,Mansoura,Kitchenware,6,292.05,Credit Card,1752.3
+ORD-5021,1/20/2025 0:00,Giza,Furniture,7,479.07,Mobile Wallet,3353.49
+ORD-5022,8/22/2025 0:00,Giza,Kitchenware,10,333.27,Mobile Wallet,3332.7
+ORD-5023,3/24/2025 0:00,Alexandria,Home Decor,2,253.17,Cash,506.34
+ORD-5024,3/21/2025 0:00,Alexandria,Electronics,13,399.35,Mobile Wallet,5191.55
+ORD-5025,1/21/2025 0:00,Alexandria,Kitchenware,7,151.89,Mobile Wallet,1063.23
+ORD-5026,5/11/2025 0:00,Alexandria,Furniture,14,338.05,Cash,4732.7
+ORD-5027,10/15/2025 0:00,Giza,Furniture,15,440.36,Credit Card,6605.4
+ORD-5028,11/4/2025 0:00,Giza,Kitchenware,13,480.72,Credit Card,6249.36
+ORD-5029,12/9/2025 0:00,Cairo,Home Decor,14,109.02,Credit Card,1526.28
+ORD-5030,11/27/2025 0:00,Cairo,Kitchenware,7,285.76,Mobile Wallet,2000.32
+ORD-5031,10/22/2025 0:00,Alexandria,Electronics,7,488.44,Credit Card,3419.08
+ORD-5032,4/1/2025 0:00,Cairo,Electronics,13,171.23,Mobile Wallet,2225.99
+ORD-5033,11/19/2025 0:00,Cairo,Furniture,7,475.56,Mobile Wallet,3328.92
+ORD-5034,5/13/2025 0:00,Giza,Home Decor,7,133.4,Mobile Wallet,933.8
+ORD-5035,11/25/2025 0:00,Giza,Electronics,11,444.09,Mobile Wallet,4884.99
+ORD-5036,2/24/2025 0:00,Alexandria,Furniture,13,353.59,Cash,4596.67
+ORD-5037,7/9/2025 0:00,Giza,Electronics,4,450.73,Credit Card,1802.92
+ORD-5038,4/10/2025 0:00,Alexandria,Electronics,6,20.07,Credit Card,120.42
+ORD-5039,4/12/2025 0:00,Giza,Furniture,12,61.27,Mobile Wallet,735.24
+ORD-5040,12/14/2025 0:00,Cairo,Home Decor,10,116.19,Mobile Wallet,1161.9
+ORD-5041,7/27/2025 0:00,Cairo,Kitchenware,3,182.59,Credit Card,547.77
+ORD-5042,6/7/2025 0:00,Giza,Electronics,4,120.31,Mobile Wallet,481.24
+ORD-5043,2/25/2025 0:00,Giza,Home Decor,3,102.68,Credit Card,308.04
+ORD-5044,6/25/2025 0:00,Mansoura,Kitchenware,9,419.45,Cash,3775.05
+ORD-5045,7/6/2025 0:00,Alexandria,Kitchenware,9,303.2,Cash,2728.8
+ORD-5046,5/1/2025 0:00,Cairo,Electronics,11,26.76,Mobile Wallet,294.36
+ORD-5047,12/17/2025 0:00,Cairo,Home Decor,5,124.23,Credit Card,621.15
+ORD-5048,8/20/2025 0:00,Mansoura,Kitchenware,12,469.48,Mobile Wallet,5633.76
+ORD-5049,2/9/2025 0:00,Mansoura,Kitchenware,7,407.96,Mobile Wallet,2855.72
+ORD-5050,6/7/2025 0:00,Cairo,Kitchenware,15,91.44,Mobile Wallet,1371.6
+ORD-5051,11/17/2025 0:00,Giza,Furniture,13,415.2,Credit Card,5397.6
+ORD-5052,9/24/2025 0:00,Alexandria,Home Decor,8,143.18,Cash,1145.44
+ORD-5053,5/12/2025 0:00,Giza,Home Decor,4,97.26,Mobile Wallet,389.04
+ORD-5054,12/31/2025 0:00,Cairo,Home Decor,3,264.51,Cash,793.53
+ORD-5055,11/14/2025 0:00,Mansoura,Electronics,15,312.01,Mobile Wallet,4680.15
+ORD-5056,1/18/2025 0:00,Giza,Home Decor,15,449.79,Cash,6746.85
+ORD-5057,3/19/2025 0:00,Cairo,Electronics,12,399.12,Cash,4789.44
+ORD-5058,3/29/2025 0:00,Mansoura,Kitchenware,12,402.45,Mobile Wallet,4829.4
+ORD-5059,4/4/2025 0:00,Cairo,Electronics,12,463.46,Mobile Wallet,5561.52
+ORD-5060,9/2/2025 0:00,Giza,Kitchenware,7,52.11,Mobile Wallet,364.77
+ORD-5061,7/18/2025 0:00,Mansoura,Furniture,9,396.2,Credit Card,3565.8
+ORD-5062,6/21/2025 0:00,Alexandria,Furniture,15,263.56,Credit Card,3953.4
+ORD-5063,6/1/2025 0:00,Alexandria,Home Decor,12,30.01,Credit Card,360.12
+ORD-5064,2/16/2025 0:00,Giza,Electronics,1,217.01,Mobile Wallet,217.01
+ORD-5065,6/30/2025 0:00,Alexandria,Kitchenware,7,243.77,Mobile Wallet,1706.39
+ORD-5066,1/18/2025 0:00,Giza,Kitchenware,11,130,Credit Card,1430
+ORD-5067,10/30/2025 0:00,Alexandria,Furniture,11,434.47,Cash,4779.17
+ORD-5068,4/14/2025 0:00,Alexandria,Electronics,3,218.45,Mobile Wallet,655.35
+ORD-5069,8/13/2025 0:00,Giza,Furniture,6,53.74,Cash,322.44
+ORD-5070,8/2/2025 0:00,Cairo,Electronics,1,277.34,Mobile Wallet,277.34
+ORD-5071,5/19/2025 0:00,Mansoura,Kitchenware,12,201.66,Cash,2419.92
+ORD-5072,1/31/2025 0:00,Cairo,Home Decor,3,395.1,Credit Card,1185.3
+ORD-5073,7/31/2025 0:00,Cairo,Home Decor,5,94.81,Credit Card,474.05
+ORD-5074,1/28/2025 0:00,Mansoura,Kitchenware,6,294.62,Mobile Wallet,1767.72
+ORD-5075,7/31/2025 0:00,Alexandria,Electronics,13,302.67,Credit Card,3934.71
+ORD-5076,10/23/2025 0:00,Mansoura,Kitchenware,15,249.62,Cash,3744.3
+ORD-5077,7/9/2025 0:00,Alexandria,Furniture,8,173.17,Credit Card,1385.36
+ORD-5078,2/5/2025 0:00,Mansoura,Home Decor,12,90.55,Mobile Wallet,1086.6
+ORD-5079,5/3/2025 0:00,Cairo,Electronics,10,375.97,Cash,3759.7
+ORD-5080,8/29/2025 0:00,Giza,Home Decor,2,346.23,Credit Card,692.46
+ORD-5081,10/10/2025 0:00,Mansoura,Furniture,7,81.14,Mobile Wallet,567.98
+ORD-5082,8/6/2025 0:00,Alexandria,Kitchenware,4,370.96,Credit Card,1483.84
+ORD-5083,2/1/2025 0:00,Alexandria,Furniture,7,188,Credit Card,1316
+ORD-5084,8/20/2025 0:00,Mansoura,Home Decor,5,325.3,Cash,1626.5
+ORD-5085,11/1/2025 0:00,Mansoura,Home Decor,2,26.26,Cash,52.52
+ORD-5086,11/18/2025 0:00,Mansoura,Furniture,11,219.48,Cash,2414.28
+ORD-5087,7/28/2025 0:00,Alexandria,Home Decor,15,51.18,Credit Card,767.7
+ORD-5088,12/21/2025 0:00,Giza,Electronics,3,289.36,Mobile Wallet,868.08
+ORD-5089,5/15/2025 0:00,Mansoura,Home Decor,2,454.16,Mobile Wallet,908.32
+ORD-5090,8/3/2025 0:00,Cairo,Furniture,1,102.92,Mobile Wallet,102.92
+ORD-5091,10/9/2025 0:00,Mansoura,Kitchenware,13,103.68,Cash,1347.84
+ORD-5092,11/17/2025 0:00,Alexandria,Kitchenware,8,470.97,Cash,3767.76
+ORD-5093,12/16/2025 0:00,Cairo,Home Decor,1,306.45,Mobile Wallet,306.45
+ORD-5094,7/14/2025 0:00,Cairo,Electronics,11,333.1,Credit Card,3664.1
+ORD-5095,1/29/2025 0:00,Mansoura,Electronics,13,138.1,Mobile Wallet,1795.3
+ORD-5096,2/22/2025 0:00,Mansoura,Furniture,2,142.43,Mobile Wallet,284.86
+ORD-5097,8/14/2025 0:00,Cairo,Home Decor,6,251.44,Credit Card,1508.64
+ORD-5098,2/10/2025 0:00,Cairo,Home Decor,10,205.22,Cash,2052.2
+ORD-5099,3/9/2025 0:00,Giza,Kitchenware,2,373.89,Cash,747.78
+ORD-5100,7/5/2025 0:00,Alexandria,Home Decor,8,258.49,Mobile Wallet,2067.92
+ORD-5101,4/7/2025 0:00,Alexandria,Electronics,2,142.19,Credit Card,284.38
+ORD-5102,2/26/2025 0:00,Alexandria,Furniture,6,27.93,Credit Card,167.58
+ORD-5103,11/22/2025 0:00,Giza,Furniture,6,496.33,Credit Card,2977.98
+ORD-5104,11/26/2025 0:00,Cairo,Kitchenware,1,267.82,Cash,267.82
+ORD-5105,1/3/2025 0:00,Mansoura,Furniture,12,309.31,Mobile Wallet,3711.72
+ORD-5106,6/2/2025 0:00,Mansoura,Furniture,7,343.52,Credit Card,2404.64
+ORD-5107,5/24/2025 0:00,Mansoura,Home Decor,8,390.27,Cash,3122.16
+ORD-5108,7/24/2025 0:00,Alexandria,Furniture,7,223.53,Mobile Wallet,1564.71
+ORD-5109,2/5/2025 0:00,Alexandria,Electronics,2,465.52,Credit Card,931.04
+ORD-5110,8/14/2025 0:00,Giza,Kitchenware,12,144.35,Mobile Wallet,1732.2
+ORD-5111,4/2/2025 0:00,Cairo,Furniture,12,42.84,Cash,514.08
+ORD-5112,3/20/2025 0:00,Alexandria,Furniture,5,453.83,Mobile Wallet,2269.15
+ORD-5113,3/9/2025 0:00,Giza,Home Decor,12,329.04,Mobile Wallet,3948.48
+ORD-5114,1/15/2025 0:00,Giza,Electronics,12,254.06,Cash,3048.72
+ORD-5115,12/4/2025 0:00,Alexandria,Home Decor,7,353.22,Mobile Wallet,2472.54
+ORD-5116,11/23/2025 0:00,Cairo,Home Decor,12,448.23,Credit Card,5378.76
+ORD-5117,6/7/2025 0:00,Mansoura,Furniture,14,66.78,Credit Card,934.92
+ORD-5118,6/24/2025 0:00,Mansoura,Kitchenware,3,270.48,Cash,811.44
+ORD-5119,10/7/2025 0:00,Giza,Home Decor,14,359.64,Mobile Wallet,5034.96
+ORD-5120,3/24/2025 0:00,Alexandria,Home Decor,15,374.85,Mobile Wallet,5622.75
+ORD-5121,1/16/2025 0:00,Giza,Furniture,15,267.5,Mobile Wallet,4012.5
+ORD-5122,10/22/2025 0:00,Alexandria,Furniture,11,230.51,Mobile Wallet,2535.61
+ORD-5123,9/29/2025 0:00,Mansoura,Home Decor,7,361.79,Credit Card,2532.53
+ORD-5124,10/3/2025 0:00,Mansoura,Home Decor,4,172.66,Cash,690.64
+ORD-5125,12/26/2025 0:00,Giza,Home Decor,8,203.77,Credit Card,1630.16
+ORD-5126,5/29/2025 0:00,Mansoura,Electronics,1,168.4,Credit Card,168.4
+ORD-5127,4/20/2025 0:00,Cairo,Kitchenware,4,65.78,Cash,263.12
+ORD-5128,5/25/2025 0:00,Mansoura,Home Decor,14,199.6,Cash,2794.4
+ORD-5129,7/3/2025 0:00,Alexandria,Home Decor,2,187.96,Mobile Wallet,375.92
+ORD-5130,10/12/2025 0:00,Alexandria,Home Decor,4,156.5,Cash,626
+ORD-5131,6/21/2025 0:00,Alexandria,Kitchenware,14,412.31,Mobile Wallet,5772.34
+ORD-5132,1/12/2025 0:00,Mansoura,Electronics,10,83.19,Mobile Wallet,831.9
+ORD-5133,1/24/2025 0:00,Cairo,Home Decor,2,394.32,Mobile Wallet,788.64
+ORD-5134,2/3/2025 0:00,Mansoura,Electronics,9,277.23,Credit Card,2495.07
+ORD-5135,8/10/2025 0:00,Mansoura,Home Decor,4,91.68,Credit Card,366.72
+ORD-5136,12/11/2025 0:00,Cairo,Home Decor,15,129.76,Mobile Wallet,1946.4
+ORD-5137,3/2/2025 0:00,Mansoura,Electronics,7,362.69,Mobile Wallet,2538.83
+ORD-5138,8/16/2025 0:00,Giza,Electronics,10,430.67,Credit Card,4306.7
+ORD-5139,2/10/2025 0:00,Mansoura,Furniture,14,201.37,Credit Card,2819.18
+ORD-5140,7/21/2025 0:00,Mansoura,Home Decor,2,422.98,Mobile Wallet,845.96
+ORD-5141,4/12/2025 0:00,Cairo,Furniture,1,143.24,Mobile Wallet,143.24
+ORD-5142,1/15/2025 0:00,Cairo,Electronics,13,243.91,Credit Card,3170.83
+ORD-5143,6/2/2025 0:00,Giza,Kitchenware,9,98.44,Mobile Wallet,885.96
+ORD-5144,5/15/2025 0:00,Mansoura,Kitchenware,4,126.46,Mobile Wallet,505.84
+ORD-5145,5/20/2025 0:00,Cairo,Furniture,6,164.14,Cash,984.84
+ORD-5146,6/20/2025 0:00,Mansoura,Electronics,15,187.46,Cash,2811.9
+ORD-5147,12/17/2025 0:00,Giza,Home Decor,6,306.89,Mobile Wallet,1841.34
+ORD-5148,10/21/2025 0:00,Mansoura,Home Decor,13,51.19,Mobile Wallet,665.47
+ORD-5149,2/16/2025 0:00,Cairo,Home Decor,5,372.7,Credit Card,1863.5
+ORD-5150,5/9/2025 0:00,Mansoura,Home Decor,12,451.01,Credit Card,5412.12
+ORD-5151,9/27/2025 0:00,Giza,Furniture,14,143.8,Credit Card,2013.2
+ORD-5152,2/11/2025 0:00,Mansoura,Furniture,15,434.57,Credit Card,6518.55
+ORD-5153,5/28/2025 0:00,Giza,Home Decor,2,417.76,Mobile Wallet,835.52
+ORD-5154,10/21/2025 0:00,Giza,Furniture,5,321.76,Mobile Wallet,1608.8
+ORD-5155,1/7/2025 0:00,Cairo,Home Decor,6,270.54,Mobile Wallet,1623.24
+ORD-5156,12/16/2025 0:00,Cairo,Furniture,5,235.77,Credit Card,1178.85
+ORD-5157,3/23/2025 0:00,Alexandria,Home Decor,8,425.23,Mobile Wallet,3401.84
+ORD-5158,7/11/2025 0:00,Cairo,Home Decor,13,65.74,Cash,854.62
+ORD-5159,6/23/2025 0:00,Mansoura,Electronics,4,412.97,Credit Card,1651.88
+ORD-5160,3/30/2025 0:00,Giza,Kitchenware,13,365.51,Cash,4751.63
+ORD-5161,11/8/2025 0:00,Cairo,Furniture,12,61.84,Cash,742.08
+ORD-5162,10/10/2025 0:00,Giza,Furniture,14,59.73,Mobile Wallet,836.22
+ORD-5163,12/7/2025 0:00,Mansoura,Kitchenware,12,161.24,Mobile Wallet,1934.88
+ORD-5164,10/14/2025 0:00,Alexandria,Electronics,9,349.37,Cash,3144.33
+ORD-5165,10/26/2025 0:00,Mansoura,Electronics,12,388.32,Cash,4659.84
+ORD-5166,3/10/2025 0:00,Giza,Home Decor,9,278.84,Cash,2509.56
+ORD-5167,8/1/2025 0:00,Giza,Electronics,11,432.78,Credit Card,4760.58
+ORD-5168,3/2/2025 0:00,Mansoura,Kitchenware,6,157.05,Credit Card,942.3
+ORD-5169,10/11/2025 0:00,Giza,Home Decor,7,483.88,Cash,3387.16
+ORD-5170,7/23/2025 0:00,Cairo,Furniture,1,171.19,Mobile Wallet,171.19
+ORD-5171,11/2/2025 0:00,Mansoura,Furniture,2,218.92,Credit Card,437.84
+ORD-5172,5/30/2025 0:00,Alexandria,Home Decor,7,478.33,Cash,3348.31
+ORD-5173,2/24/2025 0:00,Mansoura,Kitchenware,2,99.66,Cash,199.32
+ORD-5174,3/4/2025 0:00,Giza,Home Decor,11,372.09,Mobile Wallet,4092.99
+ORD-5175,6/17/2025 0:00,Mansoura,Kitchenware,6,63.68,Cash,382.08
+ORD-5176,12/16/2025 0:00,Cairo,Kitchenware,6,49.45,Credit Card,296.7
+ORD-5177,8/23/2025 0:00,Mansoura,Home Decor,3,135.83,Cash,407.49
+ORD-5178,10/5/2025 0:00,Cairo,Kitchenware,15,484.73,Cash,7270.95
+ORD-5179,5/2/2025 0:00,Mansoura,Electronics,5,409.03,Mobile Wallet,2045.15
+ORD-5180,6/24/2025 0:00,Giza,Home Decor,8,464.57,Credit Card,3716.56
+ORD-5181,9/1/2025 0:00,Giza,Kitchenware,6,179.78,Mobile Wallet,1078.68
+ORD-5182,9/24/2025 0:00,Alexandria,Kitchenware,6,490.71,Mobile Wallet,2944.26
+ORD-5183,9/8/2025 0:00,Cairo,Home Decor,9,347.8,Cash,3130.2
+ORD-5184,9/9/2025 0:00,Mansoura,Kitchenware,15,458.29,Mobile Wallet,6874.35
+ORD-5185,9/12/2025 0:00,Cairo,Furniture,2,277.76,Mobile Wallet,555.52
+ORD-5186,9/3/2025 0:00,Cairo,Electronics,9,417.98,Credit Card,3761.82
+ORD-5187,9/8/2025 0:00,Giza,Kitchenware,14,242.6,Credit Card,3396.4
+ORD-5188,7/23/2025 0:00,Giza,Furniture,14,189.49,Credit Card,2652.86
+ORD-5189,4/22/2025 0:00,Alexandria,Kitchenware,3,118.11,Mobile Wallet,354.33
+ORD-5190,4/5/2025 0:00,Mansoura,Home Decor,7,62.16,Mobile Wallet,435.12
+ORD-5191,3/7/2025 0:00,Giza,Home Decor,14,339.64,Cash,4754.96
+ORD-5192,2/12/2025 0:00,Alexandria,Furniture,1,199.79,Cash,199.79
+ORD-5193,2/28/2025 0:00,Cairo,Home Decor,9,225.62,Cash,2030.58
+ORD-5194,5/4/2025 0:00,Mansoura,Electronics,5,436.31,Mobile Wallet,2181.55
+ORD-5195,6/22/2025 0:00,Giza,Electronics,4,372.64,Mobile Wallet,1490.56
+ORD-5196,6/20/2025 0:00,Mansoura,Electronics,7,32.73,Mobile Wallet,229.11
+ORD-5197,7/29/2025 0:00,Mansoura,Furniture,7,152.07,Cash,1064.49
+ORD-5198,9/30/2025 0:00,Cairo,Home Decor,10,159.89,Credit Card,1598.9
+ORD-5199,12/17/2025 0:00,Mansoura,Kitchenware,9,225.52,Cash,2029.68
+ORD-5200,12/21/2025 0:00,Mansoura,Electronics,3,274.03,Credit Card,822.09
+ORD-5201,10/19/2025 0:00,Alexandria,Kitchenware,8,414.32,Mobile Wallet,3314.56
+ORD-5202,9/9/2025 0:00,Cairo,Electronics,5,235.47,Mobile Wallet,1177.35
+ORD-5203,10/9/2025 0:00,Giza,Furniture,1,260.37,Credit Card,260.37
+ORD-5204,7/30/2025 0:00,Cairo,Furniture,11,349.32,Credit Card,3842.52
+ORD-5205,6/1/2025 0:00,Mansoura,Home Decor,1,146.41,Credit Card,146.41
+ORD-5206,1/1/2025 0:00,Cairo,Home Decor,1,393.75,Credit Card,393.75
+ORD-5207,3/13/2025 0:00,Mansoura,Furniture,15,130.6,Mobile Wallet,1959
+ORD-5208,4/30/2025 0:00,Giza,Furniture,5,369.01,Mobile Wallet,1845.05
+ORD-5209,6/12/2025 0:00,Mansoura,Electronics,6,222.52,Credit Card,1335.12
+ORD-5210,9/7/2025 0:00,Mansoura,Kitchenware,5,266.82,Credit Card,1334.1
+ORD-5211,11/21/2025 0:00,Alexandria,Home Decor,7,43.01,Mobile Wallet,301.07
+ORD-5212,2/20/2025 0:00,Alexandria,Kitchenware,7,449.38,Mobile Wallet,3145.66
+ORD-5213,1/1/2026 0:00,Giza,Kitchenware,5,269.86,Mobile Wallet,1349.3
+ORD-5214,8/29/2025 0:00,Cairo,Furniture,13,72.9,Cash,947.7
+ORD-5215,12/29/2025 0:00,Alexandria,Kitchenware,2,248.74,Cash,497.48
+ORD-5216,1/18/2025 0:00,Mansoura,Electronics,9,416.91,Credit Card,3752.19
+ORD-5217,5/18/2025 0:00,Mansoura,Home Decor,14,279.66,Credit Card,3915.24
+ORD-5218,5/8/2025 0:00,Giza,Kitchenware,9,149.62,Credit Card,1346.58
+ORD-5219,9/25/2025 0:00,Cairo,Electronics,4,447.46,Mobile Wallet,1789.84
+ORD-5220,7/31/2025 0:00,Cairo,Kitchenware,3,87.94,Cash,263.82
+ORD-5221,5/19/2025 0:00,Mansoura,Home Decor,8,22.77,Mobile Wallet,182.16
+ORD-5222,12/2/2025 0:00,Giza,Kitchenware,5,59.66,Credit Card,298.3
+ORD-5223,8/20/2025 0:00,Giza,Furniture,11,205.73,Mobile Wallet,2263.03
+ORD-5224,11/1/2025 0:00,Giza,Furniture,6,174.79,Credit Card,1048.74
+ORD-5225,2/7/2025 0:00,Mansoura,Furniture,13,465.18,Credit Card,6047.34
+ORD-5226,9/13/2025 0:00,Alexandria,Home Decor,11,115.77,Cash,1273.47
+ORD-5227,9/15/2025 0:00,Mansoura,Kitchenware,11,181.24,Mobile Wallet,1993.64
+ORD-5228,7/6/2025 0:00,Alexandria,Electronics,4,110.1,Cash,440.4
+ORD-5229,9/22/2025 0:00,Alexandria,Kitchenware,9,310.5,Cash,2794.5
+ORD-5230,7/29/2025 0:00,Mansoura,Furniture,2,219.26,Credit Card,438.52
+ORD-5231,9/18/2025 0:00,Mansoura,Furniture,3,243.71,Mobile Wallet,731.13
+ORD-5232,3/22/2025 0:00,Mansoura,Kitchenware,3,192.63,Cash,577.89
+ORD-5233,5/25/2025 0:00,Mansoura,Kitchenware,1,240.37,Credit Card,240.37
+ORD-5234,4/12/2025 0:00,Cairo,Kitchenware,5,162.26,Cash,811.3
+ORD-5235,3/3/2025 0:00,Giza,Furniture,12,24.17,Credit Card,290.04
+ORD-5236,9/28/2025 0:00,Giza,Furniture,15,54.29,Cash,814.35
+ORD-5237,5/7/2025 0:00,Mansoura,Electronics,1,471.06,Credit Card,471.06
+ORD-5238,10/2/2025 0:00,Alexandria,Kitchenware,12,357.21,Mobile Wallet,4286.52
+ORD-5239,4/18/2025 0:00,Giza,Kitchenware,5,38.12,Mobile Wallet,190.6
+ORD-5240,7/15/2025 0:00,Cairo,Home Decor,8,99.66,Cash,797.28
+ORD-5241,3/1/2025 0:00,Mansoura,Electronics,11,471.43,Credit Card,5185.73
+ORD-5242,2/13/2025 0:00,Mansoura,Kitchenware,12,354.16,Cash,4249.92
+ORD-5243,1/18/2025 0:00,Mansoura,Home Decor,11,76.41,Credit Card,840.51
+ORD-5244,3/1/2025 0:00,Giza,Electronics,12,366.34,Cash,4396.08
+ORD-5245,5/14/2025 0:00,Alexandria,Electronics,9,146.37,Mobile Wallet,1317.33
+ORD-5246,6/23/2025 0:00,Giza,Home Decor,13,245.83,Mobile Wallet,3195.79
+ORD-5247,6/6/2025 0:00,Mansoura,Kitchenware,6,190.63,Cash,1143.78
+ORD-5248,6/15/2025 0:00,Giza,Home Decor,10,442.01,Mobile Wallet,4420.1
+ORD-5249,6/7/2025 0:00,Alexandria,Home Decor,2,82.73,Cash,165.46
+ORD-5250,9/27/2025 0:00,Cairo,Electronics,14,127.1,Credit Card,1779.4
+ORD-5251,7/25/2025 0:00,Giza,Electronics,2,144.08,Mobile Wallet,288.16
+ORD-5252,3/14/2025 0:00,Mansoura,Electronics,7,467.52,Mobile Wallet,3272.64
+ORD-5253,1/1/2025 0:00,Cairo,Home Decor,7,264.43,Cash,1851.01
+ORD-5254,11/24/2025 0:00,Mansoura,Furniture,6,140.12,Cash,840.72
+ORD-5255,11/29/2025 0:00,Mansoura,Furniture,10,174.51,Credit Card,1745.1
+ORD-5256,5/17/2025 0:00,Alexandria,Electronics,13,205.74,Mobile Wallet,2674.62
+ORD-5257,1/22/2025 0:00,Giza,Furniture,3,75.39,Credit Card,226.17
+ORD-5258,12/16/2025 0:00,Alexandria,Electronics,11,188.96,Cash,2078.56
+ORD-5259,9/20/2025 0:00,Alexandria,Kitchenware,14,34.1,Mobile Wallet,477.4
+ORD-5260,9/11/2025 0:00,Giza,Kitchenware,6,168.33,Mobile Wallet,1009.98
+ORD-5261,5/21/2025 0:00,Giza,Home Decor,2,297.15,Credit Card,594.3
+ORD-5262,12/25/2025 0:00,Mansoura,Home Decor,1,129.43,Mobile Wallet,129.43
+ORD-5263,3/31/2025 0:00,Alexandria,Electronics,6,215.9,Credit Card,1295.4
+ORD-5264,3/22/2025 0:00,Mansoura,Furniture,3,460.13,Mobile Wallet,1380.39
+ORD-5265,7/7/2025 0:00,Mansoura,Furniture,9,303.84,Credit Card,2734.56
+ORD-5266,11/19/2025 0:00,Alexandria,Furniture,1,472.81,Credit Card,472.81
+ORD-5267,6/1/2025 0:00,Cairo,Kitchenware,5,452.98,Mobile Wallet,2264.9
+ORD-5268,10/7/2025 0:00,Cairo,Home Decor,6,488,Credit Card,2928
+ORD-5269,4/12/2025 0:00,Mansoura,Furniture,9,431.29,Mobile Wallet,3881.61
+ORD-5270,6/9/2025 0:00,Giza,Electronics,12,135.22,Credit Card,1622.64
+ORD-5271,7/17/2025 0:00,Cairo,Furniture,5,426.59,Cash,2132.95
+ORD-5272,5/16/2025 0:00,Mansoura,Kitchenware,12,359.42,Mobile Wallet,4313.04
+ORD-5273,2/24/2025 0:00,Giza,Electronics,15,427.31,Credit Card,6409.65
+ORD-5274,2/9/2025 0:00,Mansoura,Furniture,8,192.85,Mobile Wallet,1542.8
+ORD-5275,6/21/2025 0:00,Alexandria,Kitchenware,4,342.25,Credit Card,1369
+ORD-5276,10/28/2025 0:00,Mansoura,Electronics,10,454.65,Cash,4546.5
+ORD-5277,1/1/2025 0:00,Cairo,Home Decor,4,28.78,Mobile Wallet,115.12
+ORD-5278,3/12/2025 0:00,Giza,Home Decor,4,425,Cash,1700
+ORD-5279,5/15/2025 0:00,Mansoura,Home Decor,13,161.42,Credit Card,2098.46
+ORD-5280,2/28/2025 0:00,Mansoura,Kitchenware,14,400.63,Cash,5608.82
+ORD-5281,1/15/2025 0:00,Mansoura,Electronics,13,100.03,Mobile Wallet,1300.39
+ORD-5282,4/20/2025 0:00,Giza,Furniture,2,461.2,Mobile Wallet,922.4
+ORD-5283,12/8/2025 0:00,Cairo,Kitchenware,6,476.93,Cash,2861.58
+ORD-5284,10/24/2025 0:00,Cairo,Electronics,2,316.99,Credit Card,633.98
+ORD-5285,12/8/2025 0:00,Mansoura,Home Decor,14,239.78,Mobile Wallet,3356.92
+ORD-5286,11/13/2025 0:00,Alexandria,Furniture,4,495.16,Cash,1980.64
+ORD-5287,5/23/2025 0:00,Mansoura,Kitchenware,10,465.18,Credit Card,4651.8
+ORD-5288,2/14/2025 0:00,Mansoura,Home Decor,14,469.4,Mobile Wallet,6571.6
+ORD-5289,4/6/2025 0:00,Mansoura,Electronics,8,127.92,Mobile Wallet,1023.36
+ORD-5290,12/15/2025 0:00,Cairo,Kitchenware,12,42.57,Credit Card,510.84
+ORD-5291,3/17/2025 0:00,Cairo,Furniture,13,89.94,Mobile Wallet,1169.22
+ORD-5292,4/29/2025 0:00,Alexandria,Furniture,3,145.15,Credit Card,435.45
+ORD-5293,6/25/2025 0:00,Cairo,Electronics,2,184.98,Mobile Wallet,369.96
+ORD-5294,8/16/2025 0:00,Alexandria,Furniture,9,30.19,Credit Card,271.71
+ORD-5295,12/15/2025 0:00,Cairo,Electronics,2,59.78,Mobile Wallet,119.56
+ORD-5296,6/8/2025 0:00,Cairo,Kitchenware,4,240.5,Cash,962
+ORD-5297,3/8/2025 0:00,Mansoura,Electronics,4,48.15,Cash,192.6
+ORD-5298,9/12/2025 0:00,Mansoura,Furniture,12,58.65,Credit Card,703.8
+ORD-5299,2/8/2025 0:00,Alexandria,Electronics,8,477.68,Mobile Wallet,3821.44
+ORD-5300,9/9/2025 0:00,Alexandria,Furniture,7,253.26,Cash,1772.82
+ORD-5301,5/4/2025 0:00,Alexandria,Furniture,14,315.39,Cash,4415.46
+ORD-5302,8/4/2025 0:00,Mansoura,Electronics,5,88.44,Mobile Wallet,442.2
+ORD-5303,10/4/2025 0:00,Giza,Electronics,7,178.52,Credit Card,1249.64
+ORD-5304,3/6/2025 0:00,Cairo,Electronics,1,365.87,Credit Card,365.87
+ORD-5305,2/1/2025 0:00,Cairo,Furniture,8,455.36,Credit Card,3642.88
+ORD-5306,5/3/2025 0:00,Cairo,Furniture,13,421.21,Credit Card,5475.73
+ORD-5307,10/27/2025 0:00,Alexandria,Furniture,5,452.93,Credit Card,2264.65
+ORD-5308,3/16/2025 0:00,Giza,Furniture,7,56.2,Credit Card,393.4
+ORD-5309,11/20/2025 0:00,Cairo,Home Decor,8,308.98,Cash,2471.84
+ORD-5310,10/1/2025 0:00,Cairo,Furniture,5,144.36,Credit Card,721.8
+ORD-5311,7/5/2025 0:00,Mansoura,Electronics,10,395.84,Credit Card,3958.4
+ORD-5312,12/12/2025 0:00,Alexandria,Electronics,8,305.75,Cash,2446
+ORD-5313,4/14/2025 0:00,Alexandria,Home Decor,8,458.5,Mobile Wallet,3668
+ORD-5314,6/5/2025 0:00,Cairo,Kitchenware,4,193.54,Mobile Wallet,774.16
+ORD-5315,10/20/2025 0:00,Cairo,Furniture,13,407.57,Mobile Wallet,5298.41
+ORD-5316,7/24/2025 0:00,Giza,Kitchenware,13,38.75,Cash,503.75
+ORD-5317,4/6/2025 0:00,Giza,Kitchenware,14,182.94,Cash,2561.16
+ORD-5318,1/14/2025 0:00,Giza,Kitchenware,14,234.9,Cash,3288.6
+ORD-5319,7/14/2025 0:00,Giza,Electronics,3,109.41,Credit Card,328.23
+ORD-5320,9/3/2025 0:00,Alexandria,Furniture,8,86.51,Mobile Wallet,692.08
+ORD-5321,12/9/2025 0:00,Giza,Kitchenware,8,477.2,Cash,3817.6
+ORD-5322,2/7/2025 0:00,Alexandria,Home Decor,14,160.42,Credit Card,2245.88
+ORD-5323,8/18/2025 0:00,Alexandria,Kitchenware,3,24.91,Cash,74.73
+ORD-5324,3/15/2025 0:00,Cairo,Home Decor,15,477.35,Mobile Wallet,7160.25
+ORD-5325,8/5/2025 0:00,Mansoura,Home Decor,6,349.61,Mobile Wallet,2097.66
+ORD-5326,9/20/2025 0:00,Giza,Kitchenware,9,430.33,Cash,3872.97
+ORD-5327,6/5/2025 0:00,Mansoura,Furniture,15,353.19,Cash,5297.85
+ORD-5328,7/19/2025 0:00,Cairo,Home Decor,7,174.62,Cash,1222.34
+ORD-5329,12/15/2025 0:00,Cairo,Electronics,14,316.94,Cash,4437.16
+ORD-5330,4/16/2025 0:00,Mansoura,Furniture,9,234.38,Credit Card,2109.42
+ORD-5331,8/30/2025 0:00,Cairo,Furniture,10,242.18,Credit Card,2421.8
+ORD-5332,5/13/2025 0:00,Cairo,Furniture,7,464.61,Mobile Wallet,3252.27
+ORD-5333,5/8/2025 0:00,Alexandria,Home Decor,4,281.79,Credit Card,1127.16
+ORD-5334,8/8/2025 0:00,Giza,Kitchenware,1,75.71,Credit Card,75.71
+ORD-5335,8/5/2025 0:00,Giza,Electronics,4,301.56,Mobile Wallet,1206.24
+ORD-5336,12/5/2025 0:00,Giza,Electronics,1,254.82,Cash,254.82
+ORD-5337,2/18/2025 0:00,Mansoura,Furniture,10,414.18,Credit Card,4141.8
+ORD-5338,9/14/2025 0:00,Cairo,Electronics,9,166.81,Mobile Wallet,1501.29
+ORD-5339,7/5/2025 0:00,Cairo,Furniture,10,234.2,Credit Card,2342
+ORD-5340,2/8/2025 0:00,Mansoura,Kitchenware,13,286.57,Credit Card,3725.41
+ORD-5341,4/3/2025 0:00,Giza,Electronics,14,478.62,Mobile Wallet,6700.68
+ORD-5342,3/29/2025 0:00,Mansoura,Electronics,2,119.62,Credit Card,239.24
+ORD-5343,10/31/2025 0:00,Alexandria,Kitchenware,14,395.75,Cash,5540.5
+ORD-5344,3/24/2025 0:00,Cairo,Home Decor,11,111.46,Cash,1226.06
+ORD-5345,1/1/2026 0:00,Mansoura,Furniture,9,120.65,Mobile Wallet,1085.85
+ORD-5346,3/7/2025 0:00,Cairo,Electronics,5,367.67,Mobile Wallet,1838.35
+ORD-5347,1/31/2025 0:00,Alexandria,Home Decor,4,36.82,Cash,147.28
+ORD-5348,3/26/2025 0:00,Cairo,Electronics,2,301.26,Mobile Wallet,602.52
+ORD-5349,1/26/2025 0:00,Cairo,Furniture,7,55.4,Mobile Wallet,387.8
+ORD-5350,1/19/2025 0:00,Mansoura,Home Decor,5,488.44,Credit Card,2442.2
+ORD-5351,7/18/2025 0:00,Mansoura,Furniture,7,279.47,Credit Card,1956.29
+ORD-5352,3/3/2025 0:00,Alexandria,Home Decor,3,351.02,Mobile Wallet,1053.06
+ORD-5353,11/10/2025 0:00,Alexandria,Electronics,7,397.1,Credit Card,2779.7
+ORD-5354,3/21/2025 0:00,Cairo,Furniture,9,433.9,Credit Card,3905.1
+ORD-5355,8/26/2025 0:00,Alexandria,Furniture,4,458.91,Credit Card,1835.64
+ORD-5356,11/14/2025 0:00,Giza,Kitchenware,9,187.23,Mobile Wallet,1685.07
+ORD-5357,3/8/2025 0:00,Mansoura,Furniture,3,465.89,Credit Card,1397.67
+ORD-5358,5/10/2025 0:00,Alexandria,Kitchenware,3,238.2,Mobile Wallet,714.6
+ORD-5359,1/29/2025 0:00,Cairo,Kitchenware,4,154.65,Credit Card,618.6
+ORD-5360,4/18/2025 0:00,Alexandria,Electronics,4,179.32,Cash,717.28
+ORD-5361,4/22/2025 0:00,Mansoura,Furniture,12,230.41,Credit Card,2764.92
+ORD-5362,10/18/2025 0:00,Mansoura,Furniture,12,220.17,Mobile Wallet,2642.04
+ORD-5363,1/18/2025 0:00,Giza,Kitchenware,15,322.97,Mobile Wallet,4844.55
+ORD-5364,3/19/2025 0:00,Alexandria,Furniture,13,304.76,Mobile Wallet,3961.88
+ORD-5365,9/4/2025 0:00,Alexandria,Furniture,7,295.46,Credit Card,2068.22
+ORD-5366,6/26/2025 0:00,Giza,Electronics,12,110.02,Cash,1320.24
+ORD-5367,11/30/2025 0:00,Giza,Furniture,2,486.32,Mobile Wallet,972.64
+ORD-5368,9/14/2025 0:00,Giza,Furniture,9,166.79,Mobile Wallet,1501.11
+ORD-5369,11/10/2025 0:00,Mansoura,Furniture,6,479.52,Cash,2877.12
+ORD-5370,5/13/2025 0:00,Alexandria,Furniture,12,215.44,Cash,2585.28
+ORD-5371,3/2/2025 0:00,Giza,Furniture,9,64.6,Credit Card,581.4
+ORD-5372,7/31/2025 0:00,Mansoura,Electronics,6,86.52,Cash,519.12
+ORD-5373,7/4/2025 0:00,Cairo,Furniture,15,413.36,Credit Card,6200.4
+ORD-5374,4/22/2025 0:00,Cairo,Electronics,15,145.04,Credit Card,2175.6
+ORD-5375,12/17/2025 0:00,Giza,Electronics,5,369.68,Cash,1848.4
+ORD-5376,12/9/2025 0:00,Alexandria,Furniture,5,351.03,Cash,1755.15
+ORD-5377,7/20/2025 0:00,Alexandria,Furniture,1,303.64,Mobile Wallet,303.64
+ORD-5378,8/6/2025 0:00,Giza,Furniture,1,275.71,Mobile Wallet,275.71
+ORD-5379,5/17/2025 0:00,Giza,Electronics,12,356.67,Credit Card,4280.04
+ORD-5380,3/26/2025 0:00,Cairo,Electronics,3,213.96,Cash,641.88
+ORD-5381,7/9/2025 0:00,Cairo,Furniture,3,485.59,Mobile Wallet,1456.77
+ORD-5382,8/31/2025 0:00,Alexandria,Home Decor,11,482.05,Credit Card,5302.55
+ORD-5383,1/22/2025 0:00,Giza,Home Decor,6,193.2,Mobile Wallet,1159.2
+ORD-5384,5/22/2025 0:00,Giza,Home Decor,10,376.28,Mobile Wallet,3762.8
+ORD-5385,1/8/2025 0:00,Giza,Furniture,15,194.83,Mobile Wallet,2922.45
+ORD-5386,7/29/2025 0:00,Mansoura,Furniture,3,204.6,Credit Card,613.8
+ORD-5387,12/5/2025 0:00,Mansoura,Electronics,8,473.16,Cash,3785.28
+ORD-5388,1/25/2025 0:00,Cairo,Furniture,13,498.28,Credit Card,6477.64
+ORD-5389,10/21/2025 0:00,Alexandria,Home Decor,7,331.13,Credit Card,2317.91
+ORD-5390,12/20/2025 0:00,Cairo,Furniture,3,300.11,Credit Card,900.33
+ORD-5391,2/15/2025 0:00,Cairo,Furniture,2,383.07,Cash,766.14
+ORD-5392,6/25/2025 0:00,Alexandria,Furniture,13,441.54,Mobile Wallet,5740.02
+ORD-5393,8/15/2025 0:00,Mansoura,Home Decor,11,250.28,Cash,2753.08
+ORD-5394,7/5/2025 0:00,Mansoura,Kitchenware,2,458.12,Mobile Wallet,916.24
+ORD-5395,9/28/2025 0:00,Alexandria,Electronics,3,31.53,Mobile Wallet,94.59
+ORD-5396,11/6/2025 0:00,Giza,Kitchenware,7,149.84,Cash,1048.88
+ORD-5397,11/6/2025 0:00,Mansoura,Kitchenware,13,397.48,Credit Card,5167.24
+ORD-5398,2/7/2025 0:00,Cairo,Home Decor,4,203.56,Cash,814.24
+ORD-5399,9/20/2025 0:00,Cairo,Electronics,15,417.23,Credit Card,6258.45
+ORD-5400,5/2/2025 0:00,Mansoura,Furniture,9,245.81,Cash,2212.29
+ORD-5401,4/18/2025 0:00,Alexandria,Furniture,1,439.8,Mobile Wallet,439.8
+ORD-5402,7/24/2025 0:00,Mansoura,Home Decor,7,51.55,Cash,360.85
+ORD-5403,3/12/2025 0:00,Cairo,Electronics,15,191.07,Cash,2866.05
+ORD-5404,5/30/2025 0:00,Alexandria,Furniture,2,66.12,Cash,132.24
+ORD-5405,5/6/2025 0:00,Giza,Home Decor,4,475.66,Mobile Wallet,1902.64
+ORD-5406,12/18/2025 0:00,Mansoura,Furniture,3,101.84,Mobile Wallet,305.52
+ORD-5407,7/17/2025 0:00,Cairo,Electronics,4,134.68,Credit Card,538.72
+ORD-5408,8/12/2025 0:00,Cairo,Electronics,1,311.5,Mobile Wallet,311.5
+ORD-5409,8/3/2025 0:00,Mansoura,Home Decor,4,406.27,Mobile Wallet,1625.08
+ORD-5410,5/9/2025 0:00,Mansoura,Kitchenware,13,383.78,Mobile Wallet,4989.14
+ORD-5411,1/17/2025 0:00,Giza,Electronics,8,353.79,Cash,2830.32
+ORD-5412,12/10/2025 0:00,Alexandria,Electronics,3,414.65,Cash,1243.95
+ORD-5413,10/25/2025 0:00,Mansoura,Home Decor,3,199.52,Cash,598.56
+ORD-5414,3/17/2025 0:00,Alexandria,Electronics,9,162.6,Mobile Wallet,1463.4
+ORD-5415,6/18/2025 0:00,Cairo,Furniture,2,360.12,Cash,720.24
+ORD-5416,2/19/2025 0:00,Giza,Furniture,3,295.32,Cash,885.96
+ORD-5417,10/14/2025 0:00,Alexandria,Home Decor,8,25.37,Mobile Wallet,202.96
+ORD-5418,3/18/2025 0:00,Alexandria,Home Decor,15,159.38,Credit Card,2390.7
+ORD-5419,6/15/2025 0:00,Cairo,Electronics,15,261.05,Mobile Wallet,3915.75
+ORD-5420,11/1/2025 0:00,Giza,Kitchenware,13,282.62,Cash,3674.06
+ORD-5421,4/9/2025 0:00,Cairo,Electronics,9,224.1,Mobile Wallet,2016.9
+ORD-5422,9/29/2025 0:00,Giza,Kitchenware,10,240.77,Cash,2407.7
+ORD-5423,11/12/2025 0:00,Alexandria,Electronics,14,267.2,Cash,3740.8
+ORD-5424,3/19/2025 0:00,Alexandria,Home Decor,9,41.37,Cash,372.33
+ORD-5425,11/15/2025 0:00,Alexandria,Kitchenware,7,244.74,Credit Card,1713.18
+ORD-5426,1/18/2025 0:00,Cairo,Electronics,13,231.59,Cash,3010.67
+ORD-5427,1/12/2025 0:00,Alexandria,Furniture,10,443.38,Mobile Wallet,4433.8
+ORD-5428,9/21/2025 0:00,Giza,Home Decor,10,390.17,Cash,3901.7
+ORD-5429,10/30/2025 0:00,Cairo,Home Decor,7,62.9,Credit Card,440.3
+ORD-5430,12/9/2025 0:00,Cairo,Electronics,3,357.51,Cash,1072.53
+ORD-5431,2/18/2025 0:00,Alexandria,Home Decor,7,374.68,Credit Card,2622.76
+ORD-5432,8/5/2025 0:00,Cairo,Electronics,15,441.88,Mobile Wallet,6628.2
+ORD-5433,8/12/2025 0:00,Mansoura,Home Decor,5,201.91,Cash,1009.55
+ORD-5434,3/11/2025 0:00,Alexandria,Kitchenware,10,292.33,Cash,2923.3
+ORD-5435,11/7/2025 0:00,Mansoura,Home Decor,3,239.16,Mobile Wallet,717.48
+ORD-5436,11/30/2025 0:00,Mansoura,Kitchenware,10,355.72,Credit Card,3557.2
+ORD-5437,10/18/2025 0:00,Cairo,Electronics,10,95.06,Credit Card,950.6
+ORD-5438,2/18/2025 0:00,Mansoura,Furniture,11,256.56,Cash,2822.16
+ORD-5439,3/7/2025 0:00,Alexandria,Home Decor,11,151.93,Credit Card,1671.23
+ORD-5440,10/29/2025 0:00,Mansoura,Kitchenware,4,467.32,Credit Card,1869.28
+ORD-5441,12/11/2025 0:00,Cairo,Electronics,10,166.3,Credit Card,1663
+ORD-5442,5/27/2025 0:00,Cairo,Kitchenware,5,346.84,Mobile Wallet,1734.2
+ORD-5443,11/2/2025 0:00,Cairo,Kitchenware,9,160.48,Mobile Wallet,1444.32
+ORD-5444,1/11/2025 0:00,Mansoura,Kitchenware,15,458.22,Credit Card,6873.3
+ORD-5445,4/18/2025 0:00,Giza,Home Decor,5,195.69,Credit Card,978.45
+ORD-5446,3/11/2025 0:00,Mansoura,Electronics,5,268.48,Credit Card,1342.4
+ORD-5447,12/22/2025 0:00,Alexandria,Furniture,10,414.74,Cash,4147.4
+ORD-5448,11/18/2025 0:00,Mansoura,Furniture,14,152.05,Credit Card,2128.7
+ORD-5449,8/23/2025 0:00,Mansoura,Furniture,13,58.7,Mobile Wallet,763.1
+ORD-5450,11/12/2025 0:00,Mansoura,Furniture,13,350.3,Mobile Wallet,4553.9
+ORD-5451,4/19/2025 0:00,Cairo,Electronics,13,408.49,Cash,5310.37
+ORD-5452,7/2/2025 0:00,Alexandria,Kitchenware,3,405.35,Credit Card,1216.05
+ORD-5453,10/10/2025 0:00,Mansoura,Kitchenware,6,150.92,Mobile Wallet,905.52
+ORD-5454,8/27/2025 0:00,Mansoura,Furniture,6,23.6,Mobile Wallet,141.6
+ORD-5455,5/14/2025 0:00,Giza,Home Decor,3,341.31,Credit Card,1023.93
+ORD-5456,6/20/2025 0:00,Alexandria,Furniture,9,264.25,Credit Card,2378.25
+ORD-5457,6/4/2025 0:00,Alexandria,Electronics,12,321.42,Cash,3857.04
+ORD-5458,7/31/2025 0:00,Alexandria,Home Decor,10,197.25,Credit Card,1972.5
+ORD-5459,8/27/2025 0:00,Alexandria,Electronics,14,352.31,Mobile Wallet,4932.34
+ORD-5460,9/7/2025 0:00,Alexandria,Home Decor,2,171.42,Cash,342.84
+ORD-5461,12/8/2025 0:00,Giza,Electronics,11,208.25,Credit Card,2290.75
+ORD-5462,6/8/2025 0:00,Alexandria,Electronics,7,241.68,Credit Card,1691.76
+ORD-5463,11/30/2025 0:00,Mansoura,Electronics,3,91.45,Cash,274.35
+ORD-5464,1/25/2025 0:00,Cairo,Furniture,7,279.48,Cash,1956.36
+ORD-5465,6/1/2025 0:00,Giza,Electronics,7,408.9,Cash,2862.3
+ORD-5466,4/30/2025 0:00,Mansoura,Kitchenware,6,247.91,Mobile Wallet,1487.46
+ORD-5467,4/4/2025 0:00,Cairo,Home Decor,13,135.82,Mobile Wallet,1765.66
+ORD-5468,7/29/2025 0:00,Giza,Electronics,3,481.43,Mobile Wallet,1444.29
+ORD-5469,11/3/2025 0:00,Mansoura,Home Decor,4,159.87,Credit Card,639.48
+ORD-5470,11/17/2025 0:00,Giza,Furniture,15,121.06,Credit Card,1815.9
+ORD-5471,4/28/2025 0:00,Alexandria,Kitchenware,9,336.07,Mobile Wallet,3024.63
+ORD-5472,12/12/2025 0:00,Alexandria,Home Decor,14,182.66,Mobile Wallet,2557.24
+ORD-5473,8/13/2025 0:00,Alexandria,Electronics,10,74.9,Credit Card,749
+ORD-5474,10/28/2025 0:00,Alexandria,Kitchenware,6,209.4,Cash,1256.4
+ORD-5475,2/24/2025 0:00,Cairo,Electronics,13,419.07,Mobile Wallet,5447.91
+ORD-5476,5/30/2025 0:00,Giza,Kitchenware,12,417.71,Cash,5012.52
+ORD-5477,5/20/2025 0:00,Giza,Home Decor,6,97.5,Mobile Wallet,585
+ORD-5478,1/15/2025 0:00,Alexandria,Furniture,10,326.3,Credit Card,3263
+ORD-5479,1/22/2025 0:00,Mansoura,Kitchenware,8,496.97,Credit Card,3975.76
+ORD-5480,7/5/2025 0:00,Giza,Electronics,8,30.67,Credit Card,245.36
+ORD-5481,1/7/2025 0:00,Giza,Kitchenware,10,353.19,Cash,3531.9
+ORD-5482,8/8/2025 0:00,Mansoura,Furniture,3,99.65,Credit Card,298.95
+ORD-5483,5/3/2025 0:00,Giza,Furniture,1,144.62,Mobile Wallet,144.62
+ORD-5484,10/31/2025 0:00,Cairo,Electronics,12,353.12,Cash,4237.44
+ORD-5485,5/14/2025 0:00,Giza,Kitchenware,4,42.27,Cash,169.08
+ORD-5486,10/10/2025 0:00,Mansoura,Furniture,15,465.42,Mobile Wallet,6981.3
+ORD-5487,11/27/2025 0:00,Cairo,Kitchenware,8,425.06,Cash,3400.48
+ORD-5488,7/25/2025 0:00,Mansoura,Furniture,9,33.1,Cash,297.9
+ORD-5489,11/28/2025 0:00,Mansoura,Kitchenware,13,206.31,Credit Card,2682.03
+ORD-5490,1/2/2025 0:00,Mansoura,Furniture,14,256.76,Cash,3594.64
+ORD-5491,8/29/2025 0:00,Giza,Kitchenware,1,409.55,Cash,409.55
+ORD-5492,1/26/2025 0:00,Giza,Electronics,6,319.16,Mobile Wallet,1914.96
+ORD-5493,6/9/2025 0:00,Cairo,Home Decor,8,201.66,Credit Card,1613.28
+ORD-5494,12/13/2025 0:00,Mansoura,Furniture,6,131.74,Cash,790.44
+ORD-5495,6/14/2025 0:00,Giza,Home Decor,13,427.17,Credit Card,5553.21
+ORD-5496,2/12/2025 0:00,Giza,Home Decor,1,376.77,Cash,376.77
+ORD-5497,8/15/2025 0:00,Mansoura,Electronics,1,145.04,Cash,145.04
+ORD-5498,5/5/2025 0:00,Alexandria,Furniture,5,341.19,Credit Card,1705.95
+ORD-5499,4/3/2025 0:00,Alexandria,Home Decor,3,129.85,Cash,389.55
+ORD-5500,1/10/2025 0:00,Cairo,Home Decor,9,127.34,Credit Card,1146.06
+ORD-5501,12/2/2025 0:00,Alexandria,Electronics,12,90.45,Cash,1085.4
+ORD-5502,10/16/2025 0:00,Alexandria,Kitchenware,14,239.69,Credit Card,3355.66
+ORD-5503,9/14/2025 0:00,Mansoura,Home Decor,15,365.21,Mobile Wallet,5478.15
+ORD-5504,5/20/2025 0:00,Cairo,Furniture,8,63.55,Credit Card,508.4
+ORD-5505,6/22/2025 0:00,Alexandria,Home Decor,15,233.15,Mobile Wallet,3497.25
+ORD-5506,9/15/2025 0:00,Alexandria,Home Decor,13,287.93,Cash,3743.09
+ORD-5507,4/30/2025 0:00,Giza,Home Decor,15,93.59,Cash,1403.85
+ORD-5508,8/24/2025 0:00,Giza,Electronics,15,317.51,Credit Card,4762.65
+ORD-5509,12/3/2025 0:00,Cairo,Furniture,1,205.42,Credit Card,205.42
+ORD-5510,2/10/2025 0:00,Cairo,Electronics,2,467.72,Cash,935.44
+ORD-5511,8/14/2025 0:00,Mansoura,Kitchenware,4,213.78,Mobile Wallet,855.12
+ORD-5512,3/24/2025 0:00,Mansoura,Kitchenware,6,179.47,Credit Card,1076.82
+ORD-5513,10/21/2025 0:00,Cairo,Home Decor,9,60.78,Mobile Wallet,547.02
+ORD-5514,12/16/2025 0:00,Cairo,Home Decor,1,82.64,Cash,82.64
+ORD-5515,6/7/2025 0:00,Alexandria,Kitchenware,7,410.92,Mobile Wallet,2876.44
+ORD-5516,2/4/2025 0:00,Giza,Furniture,7,45.62,Cash,319.34
+ORD-5517,12/7/2025 0:00,Cairo,Kitchenware,13,25.46,Credit Card,330.98
+ORD-5518,1/25/2025 0:00,Giza,Furniture,9,464.45,Cash,4180.05
+ORD-5519,10/25/2025 0:00,Alexandria,Kitchenware,14,78.22,Cash,1095.08
+ORD-5520,10/29/2025 0:00,Alexandria,Kitchenware,2,333.9,Mobile Wallet,667.8
+ORD-5521,6/6/2025 0:00,Mansoura,Home Decor,8,83.67,Credit Card,669.36
+ORD-5522,6/17/2025 0:00,Cairo,Furniture,2,304.56,Mobile Wallet,609.12
+ORD-5523,5/20/2025 0:00,Mansoura,Electronics,9,289.08,Cash,2601.72
+ORD-5524,12/31/2025 0:00,Giza,Kitchenware,1,209,Credit Card,209
+ORD-5525,9/20/2025 0:00,Alexandria,Furniture,15,31.69,Cash,475.35
+ORD-5526,2/24/2025 0:00,Alexandria,Home Decor,12,189.43,Credit Card,2273.16
+ORD-5527,3/10/2025 0:00,Alexandria,Home Decor,1,425.98,Cash,425.98
+ORD-5528,2/19/2025 0:00,Alexandria,Electronics,8,273.78,Cash,2190.24
+ORD-5529,2/19/2025 0:00,Alexandria,Home Decor,12,86.52,Cash,1038.24
+ORD-5530,5/14/2025 0:00,Mansoura,Kitchenware,4,140.44,Credit Card,561.76
+ORD-5531,12/7/2025 0:00,Mansoura,Kitchenware,12,272.65,Mobile Wallet,3271.8
+ORD-5532,4/4/2025 0:00,Mansoura,Furniture,12,155.37,Cash,1864.44
+ORD-5533,12/2/2025 0:00,Cairo,Electronics,14,380.65,Cash,5329.1
+ORD-5534,9/28/2025 0:00,Alexandria,Electronics,9,307.05,Mobile Wallet,2763.45
+ORD-5535,2/19/2025 0:00,Mansoura,Home Decor,10,423.93,Cash,4239.3
+ORD-5536,2/2/2025 0:00,Giza,Home Decor,7,245.79,Credit Card,1720.53
+ORD-5537,12/17/2025 0:00,Giza,Electronics,5,335.93,Mobile Wallet,1679.65
+ORD-5538,11/2/2025 0:00,Giza,Home Decor,12,464.24,Mobile Wallet,5570.88
+ORD-5539,9/5/2025 0:00,Cairo,Home Decor,8,413.07,Cash,3304.56
+ORD-5540,7/2/2025 0:00,Giza,Furniture,1,479,Mobile Wallet,479
+ORD-5541,5/14/2025 0:00,Cairo,Furniture,1,37.95,Mobile Wallet,37.95
+ORD-5542,4/24/2025 0:00,Alexandria,Furniture,13,463.55,Mobile Wallet,6026.15
+ORD-5543,6/7/2025 0:00,Cairo,Furniture,1,475.74,Cash,475.74
+ORD-5544,6/9/2025 0:00,Giza,Electronics,3,231.21,Mobile Wallet,693.63
+ORD-5545,5/16/2025 0:00,Alexandria,Kitchenware,4,115.66,Cash,462.64
+ORD-5546,9/26/2025 0:00,Alexandria,Home Decor,8,97.4,Credit Card,779.2
+ORD-5547,8/22/2025 0:00,Giza,Home Decor,12,156.86,Credit Card,1882.32
+ORD-5548,9/21/2025 0:00,Alexandria,Electronics,1,213.92,Mobile Wallet,213.92
+ORD-5549,7/30/2025 0:00,Cairo,Home Decor,12,30.18,Credit Card,362.16
+ORD-5550,10/18/2025 0:00,Giza,Electronics,1,436.02,Cash,436.02
+ORD-5551,6/29/2025 0:00,Giza,Kitchenware,4,203.68,Mobile Wallet,814.72
+ORD-5552,8/25/2025 0:00,Alexandria,Kitchenware,12,255.3,Cash,3063.6
+ORD-5553,2/5/2025 0:00,Alexandria,Furniture,8,191.9,Credit Card,1535.2
+ORD-5554,8/19/2025 0:00,Mansoura,Home Decor,3,112.9,Credit Card,338.7
+ORD-5555,5/26/2025 0:00,Alexandria,Electronics,8,435.97,Credit Card,3487.76
+ORD-5556,8/2/2025 0:00,Cairo,Kitchenware,7,79.23,Credit Card,554.61
+ORD-5557,9/18/2025 0:00,Mansoura,Kitchenware,13,175.62,Cash,2283.06
+ORD-5558,6/26/2025 0:00,Alexandria,Home Decor,10,101.18,Cash,1011.8
+ORD-5559,5/16/2025 0:00,Mansoura,Electronics,15,255.88,Credit Card,3838.2
+ORD-5560,9/16/2025 0:00,Alexandria,Furniture,12,137.59,Credit Card,1651.08
+ORD-5561,9/1/2025 0:00,Giza,Electronics,14,240.62,Credit Card,3368.68
+ORD-5562,10/22/2025 0:00,Giza,Kitchenware,2,127.37,Cash,254.74
+ORD-5563,11/15/2025 0:00,Mansoura,Electronics,1,347.42,Cash,347.42
+ORD-5564,11/17/2025 0:00,Alexandria,Kitchenware,14,479.61,Cash,6714.54
+ORD-5565,5/18/2025 0:00,Mansoura,Electronics,15,286.75,Credit Card,4301.25
+ORD-5566,4/18/2025 0:00,Mansoura,Electronics,13,386.23,Cash,5020.99
+ORD-5567,7/30/2025 0:00,Giza,Home Decor,6,425.23,Mobile Wallet,2551.38
+ORD-5568,2/23/2025 0:00,Alexandria,Kitchenware,7,434.64,Credit Card,3042.48
+ORD-5569,2/3/2025 0:00,Mansoura,Electronics,3,143.9,Credit Card,431.7
+ORD-5570,11/9/2025 0:00,Alexandria,Kitchenware,6,265.53,Mobile Wallet,1593.18
+ORD-5571,5/20/2025 0:00,Mansoura,Furniture,5,461.44,Credit Card,2307.2
+ORD-5572,6/12/2025 0:00,Alexandria,Electronics,2,142.66,Cash,285.32
+ORD-5573,12/20/2025 0:00,Alexandria,Kitchenware,15,464.44,Cash,6966.6
+ORD-5574,10/17/2025 0:00,Giza,Home Decor,1,64.64,Mobile Wallet,64.64
+ORD-5575,10/17/2025 0:00,Cairo,Furniture,15,349.3,Credit Card,5239.5
+ORD-5576,1/30/2025 0:00,Mansoura,Home Decor,2,211.41,Cash,422.82
+ORD-5577,9/8/2025 0:00,Cairo,Electronics,2,333.91,Credit Card,667.82
+ORD-5578,2/2/2025 0:00,Alexandria,Kitchenware,15,74.91,Cash,1123.65
+ORD-5579,5/25/2025 0:00,Alexandria,Furniture,6,54.29,Credit Card,325.74
+ORD-5580,8/29/2025 0:00,Alexandria,Furniture,10,21.82,Cash,218.2
+ORD-5581,1/21/2025 0:00,Alexandria,Furniture,13,215.54,Mobile Wallet,2802.02
+ORD-5582,1/1/2026 0:00,Giza,Home Decor,3,138,Cash,414
+ORD-5583,1/15/2025 0:00,Giza,Kitchenware,12,368.04,Cash,4416.48
+ORD-5584,6/30/2025 0:00,Cairo,Kitchenware,7,120.37,Mobile Wallet,842.59
+ORD-5585,10/24/2025 0:00,Cairo,Kitchenware,12,192.68,Credit Card,2312.16
+ORD-5586,4/30/2025 0:00,Alexandria,Electronics,3,305.11,Mobile Wallet,915.33
+ORD-5587,10/25/2025 0:00,Alexandria,Furniture,9,133.22,Credit Card,1198.98
+ORD-5588,12/14/2025 0:00,Giza,Electronics,15,401.79,Credit Card,6026.85
+ORD-5589,4/29/2025 0:00,Alexandria,Electronics,7,479.06,Cash,3353.42
+ORD-5590,10/2/2025 0:00,Mansoura,Furniture,1,125.73,Cash,125.73
+ORD-5591,6/1/2025 0:00,Giza,Home Decor,13,342.32,Credit Card,4450.16
+ORD-5592,10/16/2025 0:00,Cairo,Electronics,10,473.04,Mobile Wallet,4730.4
+ORD-5593,8/25/2025 0:00,Cairo,Kitchenware,10,485.43,Mobile Wallet,4854.3
+ORD-5594,11/30/2025 0:00,Mansoura,Home Decor,7,352.43,Cash,2467.01
+ORD-5595,7/9/2025 0:00,Giza,Kitchenware,9,351.78,Mobile Wallet,3166.02
+ORD-5596,3/2/2025 0:00,Alexandria,Kitchenware,13,151.51,Mobile Wallet,1969.63
+ORD-5597,6/21/2025 0:00,Alexandria,Electronics,4,448.69,Mobile Wallet,1794.76
+ORD-5598,10/16/2025 0:00,Giza,Home Decor,2,312.28,Cash,624.56
+ORD-5599,2/8/2025 0:00,Mansoura,Electronics,13,372.35,Mobile Wallet,4840.55
+ORD-5600,9/16/2025 0:00,Cairo,Home Decor,11,168.45,Cash,1852.95
+ORD-5601,3/28/2025 0:00,Giza,Electronics,11,300.95,Mobile Wallet,3310.45
+ORD-5602,6/27/2025 0:00,Mansoura,Home Decor,13,112.89,Credit Card,1467.57
+ORD-5603,7/27/2025 0:00,Alexandria,Furniture,2,329.24,Cash,658.48
+ORD-5604,12/16/2025 0:00,Mansoura,Furniture,15,293.33,Mobile Wallet,4399.95
+ORD-5605,3/4/2025 0:00,Alexandria,Electronics,7,69.58,Cash,487.06
+ORD-5606,4/8/2025 0:00,Alexandria,Kitchenware,3,465.5,Cash,1396.5
+ORD-5607,3/2/2025 0:00,Giza,Electronics,11,357.82,Mobile Wallet,3936.02
+ORD-5608,8/21/2025 0:00,Giza,Kitchenware,10,327.82,Mobile Wallet,3278.2
+ORD-5609,7/31/2025 0:00,Cairo,Electronics,11,148.13,Mobile Wallet,1629.43
+ORD-5610,10/7/2025 0:00,Giza,Home Decor,10,497.08,Mobile Wallet,4970.8
+ORD-5611,9/9/2025 0:00,Cairo,Furniture,7,77.46,Cash,542.22
+ORD-5612,7/22/2025 0:00,Cairo,Electronics,4,131.8,Credit Card,527.2
+ORD-5613,3/7/2025 0:00,Cairo,Home Decor,9,310.31,Mobile Wallet,2792.79
+ORD-5614,12/20/2025 0:00,Alexandria,Kitchenware,8,302.75,Credit Card,2422
+ORD-5615,4/12/2025 0:00,Alexandria,Electronics,11,212.9,Cash,2341.9
+ORD-5616,1/25/2025 0:00,Cairo,Kitchenware,8,406.81,Cash,3254.48
+ORD-5617,10/4/2025 0:00,Cairo,Kitchenware,7,80.66,Credit Card,564.62
+ORD-5618,6/2/2025 0:00,Cairo,Home Decor,1,46.38,Cash,46.38
+ORD-5619,5/17/2025 0:00,Mansoura,Furniture,8,88.94,Credit Card,711.52
+ORD-5620,1/30/2025 0:00,Giza,Home Decor,11,467.01,Cash,5137.11
+ORD-5621,11/6/2025 0:00,Giza,Electronics,10,149.28,Cash,1492.8
+ORD-5622,11/5/2025 0:00,Cairo,Kitchenware,10,489.3,Mobile Wallet,4893
+ORD-5623,8/1/2025 0:00,Mansoura,Kitchenware,10,42.9,Cash,429
+ORD-5624,6/13/2025 0:00,Cairo,Home Decor,14,328.37,Cash,4597.18
+ORD-5625,1/30/2025 0:00,Cairo,Electronics,3,188.35,Credit Card,565.05
+ORD-5626,9/22/2025 0:00,Giza,Home Decor,3,247.76,Cash,743.28
+ORD-5627,8/30/2025 0:00,Mansoura,Home Decor,5,402.47,Cash,2012.35
+ORD-5628,10/1/2025 0:00,Mansoura,Furniture,6,317.44,Mobile Wallet,1904.64
+ORD-5629,1/20/2025 0:00,Mansoura,Furniture,9,70.67,Mobile Wallet,636.03
+ORD-5630,12/30/2025 0:00,Cairo,Home Decor,3,48.01,Cash,144.03
+ORD-5631,11/27/2025 0:00,Alexandria,Electronics,11,222.84,Credit Card,2451.24
+ORD-5632,4/2/2025 0:00,Mansoura,Furniture,15,342.69,Cash,5140.35
+ORD-5633,8/15/2025 0:00,Giza,Home Decor,4,232.18,Cash,928.72
+ORD-5634,5/31/2025 0:00,Giza,Kitchenware,15,159.42,Cash,2391.3
+ORD-5635,8/14/2025 0:00,Mansoura,Kitchenware,8,202.65,Credit Card,1621.2
+ORD-5636,3/6/2025 0:00,Cairo,Kitchenware,7,294.67,Credit Card,2062.69
+ORD-5637,9/8/2025 0:00,Alexandria,Electronics,11,429.24,Cash,4721.64
+ORD-5638,5/14/2025 0:00,Giza,Home Decor,6,247.42,Credit Card,1484.52
+ORD-5639,3/17/2025 0:00,Mansoura,Kitchenware,5,389.03,Cash,1945.15
+ORD-5640,1/13/2025 0:00,Mansoura,Furniture,3,411.83,Credit Card,1235.49
+ORD-5641,5/26/2025 0:00,Mansoura,Home Decor,4,44.98,Credit Card,179.92
+ORD-5642,10/2/2025 0:00,Giza,Kitchenware,8,168.35,Mobile Wallet,1346.8
+ORD-5643,12/19/2025 0:00,Cairo,Kitchenware,4,69.05,Credit Card,276.2
+ORD-5644,5/14/2025 0:00,Giza,Electronics,13,411.44,Cash,5348.72
+ORD-5645,4/22/2025 0:00,Mansoura,Kitchenware,11,238.84,Credit Card,2627.24
+ORD-5646,7/17/2025 0:00,Giza,Furniture,5,288.36,Credit Card,1441.8
+ORD-5647,5/2/2025 0:00,Giza,Kitchenware,5,455.01,Credit Card,2275.05
+ORD-5648,12/6/2025 0:00,Giza,Kitchenware,11,111.71,Cash,1228.81
+ORD-5649,6/8/2025 0:00,Mansoura,Kitchenware,3,221.75,Credit Card,665.25
+ORD-5650,3/15/2025 0:00,Alexandria,Electronics,2,354.26,Cash,708.52
+ORD-5651,11/13/2025 0:00,Giza,Furniture,11,319.01,Credit Card,3509.11
+ORD-5652,11/18/2025 0:00,Alexandria,Electronics,13,447.33,Cash,5815.29
+ORD-5653,12/10/2025 0:00,Giza,Electronics,15,328.37,Cash,4925.55
+ORD-5654,3/27/2025 0:00,Giza,Electronics,1,125.24,Credit Card,125.24
+ORD-5655,10/16/2025 0:00,Giza,Electronics,7,337.77,Credit Card,2364.39
+ORD-5656,7/21/2025 0:00,Mansoura,Home Decor,7,102.79,Credit Card,719.53
+ORD-5657,1/3/2025 0:00,Cairo,Electronics,3,460.42,Mobile Wallet,1381.26
+ORD-5658,10/13/2025 0:00,Mansoura,Electronics,5,115.4,Credit Card,577
+ORD-5659,6/17/2025 0:00,Cairo,Furniture,10,89.6,Cash,896
+ORD-5660,2/17/2025 0:00,Cairo,Home Decor,9,272.1,Cash,2448.9
+ORD-5661,12/16/2025 0:00,Alexandria,Home Decor,14,184.66,Cash,2585.24
+ORD-5662,1/17/2025 0:00,Giza,Home Decor,9,390.1,Cash,3510.9
+ORD-5663,4/30/2025 0:00,Giza,Home Decor,9,330.24,Credit Card,2972.16
+ORD-5664,10/26/2025 0:00,Mansoura,Furniture,7,389.36,Cash,2725.52
+ORD-5665,6/16/2025 0:00,Alexandria,Electronics,1,207.57,Mobile Wallet,207.57
+ORD-5666,4/18/2025 0:00,Mansoura,Kitchenware,8,340.28,Cash,2722.24
+ORD-5667,7/8/2025 0:00,Cairo,Electronics,10,217.57,Mobile Wallet,2175.7
+ORD-5668,9/8/2025 0:00,Cairo,Kitchenware,12,365.09,Mobile Wallet,4381.08
+ORD-5669,8/13/2025 0:00,Mansoura,Furniture,7,331.58,Cash,2321.06
+ORD-5670,11/28/2025 0:00,Mansoura,Electronics,12,182.03,Cash,2184.36
+ORD-5671,5/5/2025 0:00,Mansoura,Furniture,6,447.21,Cash,2683.26
+ORD-5672,7/9/2025 0:00,Mansoura,Kitchenware,5,447.28,Mobile Wallet,2236.4
+ORD-5673,1/25/2025 0:00,Mansoura,Electronics,5,24.66,Mobile Wallet,123.3
+ORD-5674,5/6/2025 0:00,Cairo,Kitchenware,3,349.66,Cash,1048.98
+ORD-5675,3/31/2025 0:00,Giza,Electronics,7,244.55,Cash,1711.85
+ORD-5676,6/27/2025 0:00,Cairo,Electronics,1,263.46,Credit Card,263.46
+ORD-5677,11/4/2025 0:00,Mansoura,Kitchenware,12,49.67,Credit Card,596.04
+ORD-5678,6/25/2025 0:00,Giza,Electronics,1,92.71,Mobile Wallet,92.71
+ORD-5679,6/11/2025 0:00,Mansoura,Home Decor,5,489.64,Mobile Wallet,2448.2
+ORD-5680,12/11/2025 0:00,Giza,Home Decor,5,423.97,Cash,2119.85
+ORD-5681,7/12/2025 0:00,Mansoura,Kitchenware,14,402.95,Credit Card,5641.3
+ORD-5682,5/15/2025 0:00,Alexandria,Furniture,1,466.51,Mobile Wallet,466.51
+ORD-5683,2/14/2025 0:00,Giza,Electronics,14,240.37,Credit Card,3365.18
+ORD-5684,6/10/2025 0:00,Alexandria,Furniture,2,444.23,Credit Card,888.46
+ORD-5685,3/6/2025 0:00,Giza,Furniture,14,465.16,Credit Card,6512.24
+ORD-5686,11/24/2025 0:00,Alexandria,Home Decor,8,50.44,Mobile Wallet,403.52
+ORD-5687,6/12/2025 0:00,Giza,Kitchenware,6,371.85,Cash,2231.1
+ORD-5688,5/5/2025 0:00,Giza,Furniture,5,76.34,Credit Card,381.7
+ORD-5689,4/22/2025 0:00,Mansoura,Kitchenware,4,308.04,Credit Card,1232.16
+ORD-5690,2/7/2025 0:00,Alexandria,Kitchenware,3,39.07,Cash,117.21
+ORD-5691,3/19/2025 0:00,Mansoura,Furniture,15,384.76,Credit Card,5771.4
+ORD-5692,8/4/2025 0:00,Giza,Home Decor,4,410.36,Mobile Wallet,1641.44
+ORD-5693,9/10/2025 0:00,Mansoura,Kitchenware,9,495.81,Cash,4462.29
+ORD-5694,3/24/2025 0:00,Mansoura,Electronics,11,167.55,Credit Card,1843.05
+ORD-5695,3/24/2025 0:00,Giza,Furniture,10,376.55,Credit Card,3765.5
+ORD-5696,7/30/2025 0:00,Giza,Electronics,5,122.87,Mobile Wallet,614.35
+ORD-5697,12/24/2025 0:00,Alexandria,Home Decor,13,166.66,Cash,2166.58
+ORD-5698,6/20/2025 0:00,Mansoura,Furniture,2,214.85,Credit Card,429.7
+ORD-5699,8/5/2025 0:00,Cairo,Home Decor,5,255.13,Cash,1275.65
+ORD-5700,6/24/2025 0:00,Giza,Kitchenware,1,141.36,Mobile Wallet,141.36
+ORD-5701,7/31/2025 0:00,Alexandria,Electronics,5,179.77,Credit Card,898.85
+ORD-5702,9/20/2025 0:00,Giza,Home Decor,3,435.28,Mobile Wallet,1305.84
+ORD-5703,1/26/2025 0:00,Mansoura,Home Decor,3,275.4,Credit Card,826.2
+ORD-5704,8/10/2025 0:00,Giza,Electronics,3,204.13,Mobile Wallet,612.39
+ORD-5705,8/16/2025 0:00,Giza,Electronics,14,42.43,Mobile Wallet,594.02
+ORD-5706,7/9/2025 0:00,Mansoura,Electronics,14,125.57,Cash,1757.98
+ORD-5707,9/4/2025 0:00,Alexandria,Home Decor,5,136.17,Credit Card,680.85
+ORD-5708,2/26/2025 0:00,Giza,Kitchenware,6,130.21,Mobile Wallet,781.26
+ORD-5709,3/30/2025 0:00,Alexandria,Furniture,5,486.48,Mobile Wallet,2432.4
+ORD-5710,6/5/2025 0:00,Giza,Kitchenware,3,324.19,Cash,972.57
+ORD-5711,6/12/2025 0:00,Alexandria,Furniture,11,377.65,Mobile Wallet,4154.15
+ORD-5712,1/12/2025 0:00,Cairo,Kitchenware,9,114.29,Cash,1028.61
+ORD-5713,6/3/2025 0:00,Mansoura,Kitchenware,11,149.22,Mobile Wallet,1641.42
+ORD-5714,10/14/2025 0:00,Cairo,Home Decor,11,408.55,Mobile Wallet,4494.05
+ORD-5715,11/18/2025 0:00,Alexandria,Kitchenware,15,121.52,Cash,1822.8
+ORD-5716,5/28/2025 0:00,Mansoura,Kitchenware,13,353.26,Credit Card,4592.38
+ORD-5717,10/18/2025 0:00,Mansoura,Home Decor,5,88.52,Mobile Wallet,442.6
+ORD-5718,7/21/2025 0:00,Giza,Electronics,13,92.7,Mobile Wallet,1205.1
+ORD-5719,12/30/2025 0:00,Alexandria,Furniture,13,435.16,Mobile Wallet,5657.08
+ORD-5720,7/26/2025 0:00,Giza,Home Decor,12,126.23,Cash,1514.76
+ORD-5721,12/30/2025 0:00,Alexandria,Kitchenware,9,459.23,Mobile Wallet,4133.07
+ORD-5722,10/28/2025 0:00,Alexandria,Furniture,6,324.34,Credit Card,1946.04
+ORD-5723,2/8/2025 0:00,Alexandria,Furniture,7,420.83,Credit Card,2945.81
+ORD-5724,3/23/2025 0:00,Cairo,Kitchenware,11,294.91,Credit Card,3244.01
+ORD-5725,2/6/2025 0:00,Mansoura,Electronics,2,393.36,Mobile Wallet,786.72
+ORD-5726,12/8/2025 0:00,Alexandria,Home Decor,9,325.55,Mobile Wallet,2929.95
+ORD-5727,12/12/2025 0:00,Mansoura,Furniture,10,35.92,Credit Card,359.2
+ORD-5728,2/20/2025 0:00,Mansoura,Furniture,7,33.25,Mobile Wallet,232.75
+ORD-5729,6/5/2025 0:00,Mansoura,Furniture,6,146.47,Mobile Wallet,878.82
+ORD-5730,2/12/2025 0:00,Alexandria,Kitchenware,13,362.27,Mobile Wallet,4709.51
+ORD-5731,2/2/2025 0:00,Giza,Home Decor,5,105.54,Credit Card,527.7
+ORD-5732,7/8/2025 0:00,Mansoura,Electronics,6,192.54,Credit Card,1155.24
+ORD-5733,1/10/2025 0:00,Mansoura,Electronics,1,248.85,Mobile Wallet,248.85
+ORD-5734,6/10/2025 0:00,Mansoura,Home Decor,10,160.5,Credit Card,1605
+ORD-5735,8/8/2025 0:00,Alexandria,Home Decor,1,65.7,Credit Card,65.7
+ORD-5736,2/28/2025 0:00,Alexandria,Home Decor,3,310.69,Cash,932.07
+ORD-5737,7/10/2025 0:00,Mansoura,Home Decor,8,144.54,Mobile Wallet,1156.32
+ORD-5738,1/17/2025 0:00,Mansoura,Kitchenware,1,309.82,Cash,309.82
+ORD-5739,7/2/2025 0:00,Alexandria,Electronics,5,213.73,Credit Card,1068.65
+ORD-5740,3/6/2025 0:00,Mansoura,Home Decor,14,187.92,Credit Card,2630.88
+ORD-5741,8/10/2025 0:00,Giza,Kitchenware,12,74.5,Credit Card,894
+ORD-5742,1/6/2025 0:00,Giza,Home Decor,1,306.57,Cash,306.57
+ORD-5743,9/14/2025 0:00,Alexandria,Home Decor,10,109.03,Mobile Wallet,1090.3
+ORD-5744,8/30/2025 0:00,Mansoura,Electronics,6,24.32,Cash,145.92
+ORD-5745,8/8/2025 0:00,Cairo,Furniture,3,245.83,Credit Card,737.49
+ORD-5746,3/27/2025 0:00,Mansoura,Home Decor,4,378.55,Cash,1514.2
+ORD-5747,11/19/2025 0:00,Alexandria,Electronics,4,308.9,Cash,1235.6
+ORD-5748,5/3/2025 0:00,Alexandria,Kitchenware,14,371.31,Cash,5198.34
+ORD-5749,6/13/2025 0:00,Cairo,Kitchenware,8,97.07,Mobile Wallet,776.56
+ORD-5750,8/2/2025 0:00,Cairo,Kitchenware,9,168.19,Mobile Wallet,1513.71
+ORD-5751,7/4/2025 0:00,Alexandria,Electronics,6,324.33,Cash,1945.98
+ORD-5752,2/18/2025 0:00,Giza,Home Decor,11,86.71,Cash,953.81
+ORD-5753,11/9/2025 0:00,Giza,Kitchenware,11,190.86,Mobile Wallet,2099.46
+ORD-5754,8/30/2025 0:00,Alexandria,Furniture,15,193.94,Cash,2909.1
+ORD-5755,5/9/2025 0:00,Giza,Furniture,13,29.22,Mobile Wallet,379.86
+ORD-5756,4/7/2025 0:00,Giza,Home Decor,6,364.46,Cash,2186.76
+ORD-5757,12/24/2025 0:00,Cairo,Home Decor,12,292.74,Cash,3512.88
+ORD-5758,8/30/2025 0:00,Giza,Home Decor,1,268.68,Credit Card,268.68
+ORD-5759,5/22/2025 0:00,Giza,Home Decor,13,222.33,Credit Card,2890.29
+ORD-5760,10/17/2025 0:00,Cairo,Home Decor,12,97.51,Mobile Wallet,1170.12
+ORD-5761,11/4/2025 0:00,Alexandria,Furniture,13,355.97,Credit Card,4627.61
+ORD-5762,11/21/2025 0:00,Giza,Furniture,13,451.91,Cash,5874.83
+ORD-5763,1/27/2025 0:00,Mansoura,Electronics,4,33.73,Cash,134.92
+ORD-5764,6/23/2025 0:00,Giza,Kitchenware,14,283.33,Credit Card,3966.62
+ORD-5765,5/13/2025 0:00,Cairo,Furniture,9,451.59,Mobile Wallet,4064.31
+ORD-5766,10/13/2025 0:00,Cairo,Electronics,10,233.04,Credit Card,2330.4
+ORD-5767,5/12/2025 0:00,Mansoura,Furniture,1,362.65,Credit Card,362.65
+ORD-5768,9/9/2025 0:00,Giza,Electronics,1,473.3,Credit Card,473.3
+ORD-5769,11/22/2025 0:00,Giza,Furniture,11,372.32,Cash,4095.52
+ORD-5770,9/15/2025 0:00,Cairo,Electronics,2,67.09,Mobile Wallet,134.18
+ORD-5771,6/12/2025 0:00,Giza,Kitchenware,5,310.31,Cash,1551.55
+ORD-5772,6/6/2025 0:00,Giza,Kitchenware,6,457.12,Cash,2742.72
+ORD-5773,2/9/2025 0:00,Giza,Home Decor,1,337.08,Cash,337.08
+ORD-5774,12/24/2025 0:00,Mansoura,Kitchenware,3,320.73,Credit Card,962.19
+ORD-5775,6/24/2025 0:00,Cairo,Furniture,5,244.14,Credit Card,1220.7
+ORD-5776,5/24/2025 0:00,Giza,Kitchenware,10,231.19,Cash,2311.9
+ORD-5777,8/18/2025 0:00,Cairo,Electronics,3,402.9,Cash,1208.7
+ORD-5778,1/7/2025 0:00,Giza,Furniture,6,489,Cash,2934
+ORD-5779,11/19/2025 0:00,Alexandria,Kitchenware,5,21.8,Mobile Wallet,109
+ORD-5780,6/27/2025 0:00,Alexandria,Furniture,7,463.49,Cash,3244.43
+ORD-5781,7/30/2025 0:00,Alexandria,Electronics,7,342.68,Credit Card,2398.76
+ORD-5782,11/2/2025 0:00,Cairo,Home Decor,10,158.69,Cash,1586.9
+ORD-5783,8/23/2025 0:00,Mansoura,Furniture,13,447.96,Mobile Wallet,5823.48
+ORD-5784,1/10/2025 0:00,Cairo,Furniture,12,75.09,Credit Card,901.08
+ORD-5785,8/25/2025 0:00,Alexandria,Kitchenware,11,197.28,Cash,2170.08
+ORD-5786,10/4/2025 0:00,Cairo,Electronics,4,134.61,Credit Card,538.44
+ORD-5787,5/10/2025 0:00,Alexandria,Furniture,8,318.63,Credit Card,2549.04
+ORD-5788,12/28/2025 0:00,Mansoura,Electronics,12,82.81,Credit Card,993.72
+ORD-5789,5/25/2025 0:00,Giza,Furniture,12,318.6,Credit Card,3823.2
+ORD-5790,10/21/2025 0:00,Giza,Electronics,8,105.67,Cash,845.36
+ORD-5791,6/24/2025 0:00,Mansoura,Home Decor,11,371.84,Credit Card,4090.24
+ORD-5792,6/28/2025 0:00,Cairo,Electronics,4,343.6,Mobile Wallet,1374.4
+ORD-5793,8/3/2025 0:00,Cairo,Furniture,7,138.19,Mobile Wallet,967.33
+ORD-5794,7/30/2025 0:00,Alexandria,Electronics,12,377.3,Cash,4527.6
+ORD-5795,8/27/2025 0:00,Cairo,Kitchenware,9,396.08,Cash,3564.72
+ORD-5796,1/1/2026 0:00,Cairo,Home Decor,12,368.69,Credit Card,4424.28
+ORD-5797,6/5/2025 0:00,Alexandria,Kitchenware,6,145.48,Cash,872.88
+ORD-5798,11/14/2025 0:00,Mansoura,Furniture,14,62.35,Cash,872.9
+ORD-5799,2/12/2025 0:00,Mansoura,Furniture,7,204.1,Cash,1428.7
+ORD-5800,7/1/2025 0:00,Cairo,Kitchenware,7,71.48,Credit Card,500.36
+ORD-5801,12/22/2025 0:00,Alexandria,Electronics,15,319.3,Credit Card,4789.5
+ORD-5802,1/22/2025 0:00,Mansoura,Kitchenware,7,396.36,Cash,2774.52
+ORD-5803,1/24/2025 0:00,Giza,Home Decor,6,307.75,Cash,1846.5
+ORD-5804,10/27/2025 0:00,Giza,Electronics,3,444.02,Credit Card,1332.06
+ORD-5805,11/25/2025 0:00,Alexandria,Kitchenware,14,255.76,Credit Card,3580.64
+ORD-5806,5/24/2025 0:00,Alexandria,Kitchenware,2,377.74,Credit Card,755.48
+ORD-5807,9/15/2025 0:00,Giza,Home Decor,4,472.89,Credit Card,1891.56
+ORD-5808,9/18/2025 0:00,Mansoura,Home Decor,8,178.38,Mobile Wallet,1427.04
+ORD-5809,4/19/2025 0:00,Cairo,Electronics,10,311.59,Credit Card,3115.9
+ORD-5810,12/2/2025 0:00,Giza,Kitchenware,5,36.46,Credit Card,182.3
+ORD-5811,10/14/2025 0:00,Cairo,Furniture,14,107.86,Cash,1510.04
+ORD-5812,4/15/2025 0:00,Mansoura,Electronics,10,123.08,Credit Card,1230.8
+ORD-5813,7/21/2025 0:00,Alexandria,Home Decor,9,306.96,Mobile Wallet,2762.64
+ORD-5814,9/6/2025 0:00,Alexandria,Kitchenware,8,146.82,Cash,1174.56
+ORD-5815,3/21/2025 0:00,Mansoura,Kitchenware,12,25.73,Credit Card,308.76
+ORD-5816,5/2/2025 0:00,Giza,Home Decor,14,83.15,Cash,1164.1
+ORD-5817,10/13/2025 0:00,Giza,Electronics,10,377.25,Cash,3772.5
+ORD-5818,4/8/2025 0:00,Mansoura,Home Decor,15,141.94,Credit Card,2129.1
+ORD-5819,9/12/2025 0:00,Cairo,Home Decor,3,297.2,Cash,891.6
+ORD-5820,12/6/2025 0:00,Giza,Furniture,8,33.39,Mobile Wallet,267.12
+ORD-5821,10/29/2025 0:00,Cairo,Furniture,7,394.62,Credit Card,2762.34
+ORD-5822,8/2/2025 0:00,Alexandria,Kitchenware,7,237.15,Cash,1660.05
+ORD-5823,10/6/2025 0:00,Mansoura,Furniture,3,178.98,Cash,536.94
+ORD-5824,3/20/2025 0:00,Mansoura,Kitchenware,7,336.58,Cash,2356.06
+ORD-5825,2/6/2025 0:00,Giza,Kitchenware,4,102.95,Cash,411.8
+ORD-5826,7/2/2025 0:00,Cairo,Kitchenware,11,413.21,Cash,4545.31
+ORD-5827,2/11/2025 0:00,Mansoura,Home Decor,12,185.42,Mobile Wallet,2225.04
+ORD-5828,2/21/2025 0:00,Alexandria,Furniture,13,412.27,Cash,5359.51
+ORD-5829,2/7/2025 0:00,Alexandria,Furniture,11,452.26,Mobile Wallet,4974.86
+ORD-5830,3/5/2025 0:00,Cairo,Furniture,3,328.14,Mobile Wallet,984.42
+ORD-5831,2/28/2025 0:00,Mansoura,Home Decor,8,84.44,Cash,675.52
+ORD-5832,7/24/2025 0:00,Giza,Home Decor,9,380.69,Mobile Wallet,3426.21
+ORD-5833,7/15/2025 0:00,Cairo,Home Decor,5,44.77,Cash,223.85
+ORD-5834,4/29/2025 0:00,Mansoura,Kitchenware,2,182.76,Cash,365.52
+ORD-5835,1/1/2025 0:00,Cairo,Kitchenware,2,313.69,Mobile Wallet,627.38
+ORD-5836,4/16/2025 0:00,Alexandria,Furniture,7,218.34,Mobile Wallet,1528.38
+ORD-5837,12/18/2025 0:00,Alexandria,Electronics,14,440.33,Cash,6164.62
+ORD-5838,7/29/2025 0:00,Alexandria,Electronics,1,129.67,Mobile Wallet,129.67
+ORD-5839,1/30/2025 0:00,Giza,Electronics,11,101.57,Credit Card,1117.27
+ORD-5840,4/21/2025 0:00,Cairo,Furniture,13,65.46,Credit Card,850.98
+ORD-5841,2/15/2025 0:00,Giza,Electronics,4,482.67,Mobile Wallet,1930.68
+ORD-5842,4/2/2025 0:00,Cairo,Furniture,4,209.8,Credit Card,839.2
+ORD-5843,6/2/2025 0:00,Alexandria,Home Decor,6,215.21,Mobile Wallet,1291.26
+ORD-5844,2/11/2025 0:00,Alexandria,Electronics,7,271.91,Mobile Wallet,1903.37
+ORD-5845,8/8/2025 0:00,Cairo,Electronics,1,83.14,Mobile Wallet,83.14
+ORD-5846,1/21/2025 0:00,Alexandria,Furniture,11,352.96,Credit Card,3882.56
+ORD-5847,3/29/2025 0:00,Mansoura,Furniture,14,206.27,Mobile Wallet,2887.78
+ORD-5848,7/7/2025 0:00,Cairo,Home Decor,4,160.28,Cash,641.12
+ORD-5849,11/9/2025 0:00,Giza,Home Decor,8,144.54,Mobile Wallet,1156.32
+ORD-5850,1/14/2025 0:00,Giza,Home Decor,15,57.58,Credit Card,863.7
+ORD-5851,12/23/2025 0:00,Giza,Home Decor,14,302.22,Mobile Wallet,4231.08
+ORD-5852,8/29/2025 0:00,Alexandria,Home Decor,6,74.7,Cash,448.2
+ORD-5853,6/12/2025 0:00,Giza,Furniture,5,420.74,Credit Card,2103.7
+ORD-5854,12/14/2025 0:00,Alexandria,Electronics,8,62.1,Credit Card,496.8
+ORD-5855,8/21/2025 0:00,Cairo,Kitchenware,5,128.28,Credit Card,641.4
+ORD-5856,6/23/2025 0:00,Giza,Electronics,10,480.83,Mobile Wallet,4808.3
+ORD-5857,6/17/2025 0:00,Giza,Home Decor,12,213.86,Cash,2566.32
+ORD-5858,10/19/2025 0:00,Alexandria,Electronics,8,438.15,Mobile Wallet,3505.2
+ORD-5859,4/14/2025 0:00,Giza,Home Decor,1,84.95,Cash,84.95
+ORD-5860,1/8/2025 0:00,Mansoura,Home Decor,10,327.24,Cash,3272.4
+ORD-5861,6/6/2025 0:00,Cairo,Electronics,11,160.51,Mobile Wallet,1765.61
+ORD-5862,1/12/2025 0:00,Alexandria,Electronics,7,452.21,Cash,3165.47
+ORD-5863,11/14/2025 0:00,Giza,Electronics,9,199.74,Mobile Wallet,1797.66
+ORD-5864,2/10/2025 0:00,Cairo,Electronics,9,374.28,Mobile Wallet,3368.52
+ORD-5865,8/5/2025 0:00,Alexandria,Home Decor,15,394.36,Credit Card,5915.4
+ORD-5866,4/10/2025 0:00,Cairo,Electronics,2,96.52,Credit Card,193.04
+ORD-5867,3/21/2025 0:00,Mansoura,Home Decor,1,245.83,Mobile Wallet,245.83
+ORD-5868,7/30/2025 0:00,Mansoura,Home Decor,15,303.38,Cash,4550.7
+ORD-5869,4/3/2025 0:00,Giza,Home Decor,1,189.71,Mobile Wallet,189.71
+ORD-5870,8/21/2025 0:00,Giza,Home Decor,7,390.22,Cash,2731.54
+ORD-5871,7/16/2025 0:00,Mansoura,Furniture,6,334.52,Credit Card,2007.12
+ORD-5872,8/24/2025 0:00,Cairo,Home Decor,3,49.67,Credit Card,149.01
+ORD-5873,3/29/2025 0:00,Giza,Home Decor,3,233.32,Credit Card,699.96
+ORD-5874,6/25/2025 0:00,Mansoura,Home Decor,1,252.1,Cash,252.1
+ORD-5875,8/22/2025 0:00,Cairo,Electronics,15,405.83,Credit Card,6087.45
+ORD-5876,6/6/2025 0:00,Cairo,Home Decor,1,31.13,Mobile Wallet,31.13
+ORD-5877,5/16/2025 0:00,Cairo,Furniture,10,386.91,Mobile Wallet,3869.1
+ORD-5878,6/22/2025 0:00,Giza,Electronics,6,126.99,Cash,761.94
+ORD-5879,1/27/2025 0:00,Cairo,Furniture,5,299.99,Mobile Wallet,1499.95
+ORD-5880,9/26/2025 0:00,Cairo,Electronics,2,184.24,Credit Card,368.48
+ORD-5881,9/9/2025 0:00,Alexandria,Electronics,13,179.57,Mobile Wallet,2334.41
+ORD-5882,4/12/2025 0:00,Mansoura,Kitchenware,9,316.15,Mobile Wallet,2845.35
+ORD-5883,10/9/2025 0:00,Alexandria,Electronics,14,20.22,Credit Card,283.08
+ORD-5884,8/13/2025 0:00,Cairo,Electronics,12,210.06,Credit Card,2520.72
+ORD-5885,4/19/2025 0:00,Alexandria,Home Decor,1,415.79,Mobile Wallet,415.79
+ORD-5886,3/3/2025 0:00,Mansoura,Furniture,13,110.27,Cash,1433.51
+ORD-5887,6/30/2025 0:00,Mansoura,Kitchenware,7,101.31,Cash,709.17
+ORD-5888,5/18/2025 0:00,Cairo,Kitchenware,7,362.35,Mobile Wallet,2536.45
+ORD-5889,5/21/2025 0:00,Mansoura,Electronics,9,116.69,Mobile Wallet,1050.21
+ORD-5890,1/30/2025 0:00,Giza,Home Decor,8,32.67,Credit Card,261.36
+ORD-5891,11/7/2025 0:00,Giza,Furniture,6,334.37,Credit Card,2006.22
+ORD-5892,11/3/2025 0:00,Cairo,Furniture,2,444.06,Cash,888.12
+ORD-5893,10/27/2025 0:00,Mansoura,Electronics,4,338.08,Mobile Wallet,1352.32
+ORD-5894,5/4/2025 0:00,Mansoura,Furniture,14,354.29,Mobile Wallet,4960.06
+ORD-5895,7/16/2025 0:00,Mansoura,Electronics,4,327.55,Mobile Wallet,1310.2
+ORD-5896,11/22/2025 0:00,Mansoura,Furniture,10,206.43,Mobile Wallet,2064.3
+ORD-5897,5/3/2025 0:00,Cairo,Kitchenware,8,371.09,Credit Card,2968.72
+ORD-5898,4/21/2025 0:00,Mansoura,Electronics,13,91.54,Credit Card,1190.02
+ORD-5899,6/9/2025 0:00,Cairo,Home Decor,14,435.13,Credit Card,6091.82
+ORD-5900,6/14/2025 0:00,Alexandria,Home Decor,3,114.6,Cash,343.8
+ORD-5901,7/10/2025 0:00,Giza,Home Decor,5,114.54,Credit Card,572.7
+ORD-5902,4/2/2025 0:00,Giza,Kitchenware,11,163.34,Cash,1796.74
+ORD-5903,3/4/2025 0:00,Alexandria,Electronics,13,486.02,Credit Card,6318.26
+ORD-5904,5/8/2025 0:00,Alexandria,Kitchenware,2,459.34,Credit Card,918.68
+ORD-5905,10/19/2025 0:00,Mansoura,Furniture,5,344.4,Mobile Wallet,1722
+ORD-5906,12/26/2025 0:00,Mansoura,Kitchenware,15,266.72,Credit Card,4000.8
+ORD-5907,3/25/2025 0:00,Mansoura,Kitchenware,7,208.56,Mobile Wallet,1459.92
+ORD-5908,7/24/2025 0:00,Mansoura,Electronics,14,425.95,Cash,5963.3
+ORD-5909,3/28/2025 0:00,Mansoura,Home Decor,8,467.09,Mobile Wallet,3736.72
+ORD-5910,12/27/2025 0:00,Giza,Home Decor,11,323.68,Credit Card,3560.48
+ORD-5911,1/10/2025 0:00,Mansoura,Kitchenware,5,436.51,Credit Card,2182.55
+ORD-5912,3/4/2025 0:00,Alexandria,Kitchenware,9,488.95,Mobile Wallet,4400.55
+ORD-5913,1/29/2025 0:00,Alexandria,Home Decor,4,177.91,Mobile Wallet,711.64
+ORD-5914,4/4/2025 0:00,Giza,Kitchenware,1,389.18,Mobile Wallet,389.18
+ORD-5915,9/27/2025 0:00,Alexandria,Furniture,10,450.95,Mobile Wallet,4509.5
+ORD-5916,4/9/2025 0:00,Cairo,Furniture,5,137.08,Mobile Wallet,685.4
+ORD-5917,2/25/2025 0:00,Giza,Furniture,9,179.97,Cash,1619.73
+ORD-5918,2/15/2025 0:00,Alexandria,Electronics,4,436.16,Mobile Wallet,1744.64
+ORD-5919,7/16/2025 0:00,Alexandria,Furniture,7,344.05,Credit Card,2408.35
+ORD-5920,8/26/2025 0:00,Cairo,Kitchenware,12,482.33,Cash,5787.96
+ORD-5921,9/20/2025 0:00,Mansoura,Home Decor,4,182.28,Mobile Wallet,729.12
+ORD-5922,11/6/2025 0:00,Giza,Home Decor,2,329.86,Cash,659.72
+ORD-5923,1/28/2025 0:00,Mansoura,Electronics,10,178.99,Credit Card,1789.9
+ORD-5924,4/5/2025 0:00,Cairo,Electronics,9,477.76,Cash,4299.84
+ORD-5925,11/25/2025 0:00,Cairo,Home Decor,9,205.98,Credit Card,1853.82
+ORD-5926,10/30/2025 0:00,Giza,Home Decor,5,352.53,Cash,1762.65
+ORD-5927,3/18/2025 0:00,Mansoura,Kitchenware,12,136.16,Cash,1633.92
+ORD-5928,4/3/2025 0:00,Cairo,Electronics,15,78.75,Credit Card,1181.25
+ORD-5929,9/30/2025 0:00,Giza,Furniture,9,399.85,Credit Card,3598.65
+ORD-5930,7/21/2025 0:00,Cairo,Furniture,5,180.31,Credit Card,901.55
+ORD-5931,10/14/2025 0:00,Giza,Electronics,5,208.8,Mobile Wallet,1044
+ORD-5932,11/13/2025 0:00,Cairo,Electronics,8,294.8,Credit Card,2358.4
+ORD-5933,8/31/2025 0:00,Giza,Furniture,10,278.56,Credit Card,2785.6
+ORD-5934,9/19/2025 0:00,Cairo,Home Decor,9,256.92,Credit Card,2312.28
+ORD-5935,2/1/2025 0:00,Alexandria,Home Decor,14,216.67,Credit Card,3033.38
+ORD-5936,7/27/2025 0:00,Giza,Electronics,13,416.82,Mobile Wallet,5418.66
+ORD-5937,6/2/2025 0:00,Cairo,Kitchenware,4,66.04,Cash,264.16
+ORD-5938,3/25/2025 0:00,Mansoura,Electronics,10,284.27,Mobile Wallet,2842.7
+ORD-5939,10/15/2025 0:00,Cairo,Home Decor,4,130.83,Mobile Wallet,523.32
+ORD-5940,3/28/2025 0:00,Giza,Home Decor,7,276.3,Mobile Wallet,1934.1
+ORD-5941,10/4/2025 0:00,Cairo,Electronics,4,439.62,Mobile Wallet,1758.48
+ORD-5942,8/6/2025 0:00,Giza,Furniture,14,488.78,Mobile Wallet,6842.92
+ORD-5943,8/14/2025 0:00,Cairo,Furniture,3,133.16,Cash,399.48
+ORD-5944,6/14/2025 0:00,Mansoura,Furniture,5,389.76,Credit Card,1948.8
+ORD-5945,3/1/2025 0:00,Mansoura,Kitchenware,8,488.45,Cash,3907.6
+ORD-5946,5/4/2025 0:00,Mansoura,Electronics,6,454.42,Mobile Wallet,2726.52
+ORD-5947,11/10/2025 0:00,Giza,Electronics,15,329.88,Credit Card,4948.2
+ORD-5948,2/22/2025 0:00,Cairo,Furniture,15,421.97,Credit Card,6329.55
+ORD-5949,7/4/2025 0:00,Cairo,Electronics,8,184.79,Credit Card,1478.32
+ORD-5950,10/19/2025 0:00,Alexandria,Electronics,2,487.42,Mobile Wallet,974.84
+ORD-5951,4/7/2025 0:00,Giza,Electronics,15,492.57,Mobile Wallet,7388.55
+ORD-5952,3/4/2025 0:00,Giza,Home Decor,5,106.54,Mobile Wallet,532.7
+ORD-5953,6/19/2025 0:00,Giza,Home Decor,7,77.54,Cash,542.78
+ORD-5954,6/20/2025 0:00,Alexandria,Kitchenware,10,499.85,Mobile Wallet,4998.5
+ORD-5955,10/17/2025 0:00,Giza,Kitchenware,4,39.57,Cash,158.28
+ORD-5956,2/3/2025 0:00,Giza,Kitchenware,14,183.82,Credit Card,2573.48
+ORD-5957,9/10/2025 0:00,Mansoura,Furniture,13,211.51,Credit Card,2749.63
+ORD-5958,8/16/2025 0:00,Cairo,Kitchenware,1,59.22,Credit Card,59.22
+ORD-5959,3/18/2025 0:00,Alexandria,Electronics,2,479.25,Cash,958.5
+ORD-5960,10/4/2025 0:00,Mansoura,Electronics,4,217.64,Cash,870.56
+ORD-5961,12/26/2025 0:00,Alexandria,Furniture,2,251.37,Credit Card,502.74
+ORD-5962,7/12/2025 0:00,Cairo,Home Decor,11,362.39,Credit Card,3986.29
+ORD-5963,10/19/2025 0:00,Mansoura,Furniture,2,236.96,Cash,473.92
+ORD-5964,6/26/2025 0:00,Alexandria,Furniture,3,53.9,Credit Card,161.7
+ORD-5965,2/23/2025 0:00,Cairo,Furniture,4,200.93,Credit Card,803.72
+ORD-5966,3/16/2025 0:00,Cairo,Furniture,9,292.31,Cash,2630.79
+ORD-5967,5/9/2025 0:00,Alexandria,Home Decor,13,423.39,Credit Card,5504.07
+ORD-5968,7/6/2025 0:00,Alexandria,Electronics,4,239.04,Cash,956.16
+ORD-5969,12/22/2025 0:00,Giza,Home Decor,10,56.07,Credit Card,560.7
+ORD-5970,2/4/2025 0:00,Giza,Kitchenware,9,301.08,Credit Card,2709.72
+ORD-5971,11/22/2025 0:00,Alexandria,Furniture,13,393.44,Cash,5114.72
+ORD-5972,7/3/2025 0:00,Cairo,Kitchenware,1,127.71,Credit Card,127.71
+ORD-5973,1/19/2025 0:00,Mansoura,Furniture,10,449.5,Cash,4495
+ORD-5974,3/10/2025 0:00,Mansoura,Home Decor,9,110.32,Cash,992.88
+ORD-5975,11/12/2025 0:00,Mansoura,Electronics,4,429.51,Credit Card,1718.04
+ORD-5976,4/8/2025 0:00,Alexandria,Home Decor,1,23.4,Credit Card,23.4
+ORD-5977,6/6/2025 0:00,Cairo,Furniture,4,180.92,Cash,723.68
+ORD-5978,3/13/2025 0:00,Giza,Furniture,8,125.49,Credit Card,1003.92
+ORD-5979,7/17/2025 0:00,Mansoura,Electronics,2,398.08,Credit Card,796.16
+ORD-5980,10/15/2025 0:00,Alexandria,Home Decor,3,103.02,Cash,309.06
+ORD-5981,8/8/2025 0:00,Cairo,Electronics,9,373.13,Mobile Wallet,3358.17
+ORD-5982,9/6/2025 0:00,Mansoura,Kitchenware,9,122.98,Credit Card,1106.82
+ORD-5983,8/20/2025 0:00,Mansoura,Furniture,6,280.22,Cash,1681.32
+ORD-5984,7/3/2025 0:00,Giza,Kitchenware,2,41.96,Credit Card,83.92
+ORD-5985,9/11/2025 0:00,Mansoura,Home Decor,11,120.52,Credit Card,1325.72
+ORD-5986,8/19/2025 0:00,Alexandria,Home Decor,12,137.07,Credit Card,1644.84
+ORD-5987,8/27/2025 0:00,Giza,Kitchenware,10,193.16,Mobile Wallet,1931.6
+ORD-5988,1/17/2025 0:00,Giza,Home Decor,10,484.79,Credit Card,4847.9
+ORD-5989,9/25/2025 0:00,Alexandria,Electronics,9,178.95,Cash,1610.55
+ORD-5990,8/26/2025 0:00,Alexandria,Furniture,15,384.76,Credit Card,5771.4
+ORD-5991,6/30/2025 0:00,Alexandria,Kitchenware,11,465.76,Cash,5123.36
+ORD-5992,9/30/2025 0:00,Giza,Home Decor,2,399.23,Mobile Wallet,798.46
+ORD-5993,10/20/2025 0:00,Giza,Kitchenware,6,325.24,Cash,1951.44
+ORD-5994,4/15/2025 0:00,Giza,Furniture,12,488.05,Cash,5856.6
+ORD-5995,11/1/2025 0:00,Alexandria,Electronics,15,498.47,Mobile Wallet,7477.05
+ORD-5996,12/27/2025 0:00,Cairo,Kitchenware,5,316.27,Credit Card,1581.35
+ORD-5997,8/31/2025 0:00,Mansoura,Kitchenware,2,127.08,Mobile Wallet,254.16
+ORD-5998,5/11/2025 0:00,Giza,Home Decor,12,240.72,Cash,2888.64
+ORD-5999,8/1/2025 0:00,Alexandria,Furniture,14,171.91,Cash,2406.74
+ORD-6000,9/9/2025 0:00,Cairo,Furniture,10,319.27,Cash,3192.7
+ORD-6001,9/4/2025 0:00,Cairo,Home Decor,15,202.84,Credit Card,3042.6
+ORD-6002,3/5/2025 0:00,Alexandria,Furniture,5,279.05,Cash,1395.25
+ORD-6003,5/26/2025 0:00,Cairo,Kitchenware,15,85.13,Credit Card,1276.95
+ORD-6004,2/6/2025 0:00,Alexandria,Electronics,3,400.97,Cash,1202.91
+ORD-6005,5/9/2025 0:00,Cairo,Electronics,14,322.21,Credit Card,4510.94
+ORD-6006,7/20/2025 0:00,Cairo,Kitchenware,8,116.3,Cash,930.4
+ORD-6007,12/8/2025 0:00,Giza,Electronics,3,211.02,Credit Card,633.06
+ORD-6008,7/17/2025 0:00,Alexandria,Home Decor,7,303.41,Credit Card,2123.87
+ORD-6009,10/30/2025 0:00,Alexandria,Kitchenware,2,31.65,Credit Card,63.3
+ORD-6010,3/25/2025 0:00,Cairo,Electronics,12,350.25,Cash,4203
+ORD-6011,8/18/2025 0:00,Giza,Home Decor,11,201,Cash,2211
+ORD-6012,9/16/2025 0:00,Cairo,Furniture,13,315.02,Mobile Wallet,4095.26
+ORD-6013,5/17/2025 0:00,Mansoura,Electronics,13,55.31,Cash,719.03
+ORD-6014,8/20/2025 0:00,Giza,Electronics,4,328.16,Cash,1312.64
+ORD-6015,10/4/2025 0:00,Cairo,Furniture,2,332.58,Credit Card,665.16
+ORD-6016,12/26/2025 0:00,Giza,Home Decor,14,320.81,Cash,4491.34
+ORD-6017,4/1/2025 0:00,Cairo,Electronics,4,127.92,Mobile Wallet,511.68
+ORD-6018,11/16/2025 0:00,Mansoura,Home Decor,11,206.53,Credit Card,2271.83
+ORD-6019,5/25/2025 0:00,Mansoura,Electronics,3,209.38,Cash,628.14
+ORD-6020,4/20/2025 0:00,Alexandria,Kitchenware,10,310.5,Credit Card,3105
+ORD-6021,4/15/2025 0:00,Alexandria,Kitchenware,13,99.17,Mobile Wallet,1289.21
+ORD-6022,9/12/2025 0:00,Giza,Kitchenware,14,491.08,Cash,6875.12
+ORD-6023,11/4/2025 0:00,Alexandria,Electronics,4,484.66,Mobile Wallet,1938.64
+ORD-6024,9/19/2025 0:00,Alexandria,Home Decor,3,412.13,Mobile Wallet,1236.39
+ORD-6025,3/29/2025 0:00,Alexandria,Electronics,2,322.8,Credit Card,645.6
+ORD-6026,6/16/2025 0:00,Cairo,Home Decor,7,276.53,Credit Card,1935.71
+ORD-6027,9/30/2025 0:00,Cairo,Home Decor,4,356.66,Credit Card,1426.64
+ORD-6028,5/22/2025 0:00,Mansoura,Home Decor,8,374.12,Credit Card,2992.96
+ORD-6029,5/11/2025 0:00,Cairo,Electronics,10,420.44,Cash,4204.4
+ORD-6030,11/19/2025 0:00,Mansoura,Kitchenware,2,429.74,Credit Card,859.48
+ORD-6031,9/21/2025 0:00,Cairo,Furniture,14,443.16,Cash,6204.24
+ORD-6032,10/19/2025 0:00,Alexandria,Electronics,14,272.97,Credit Card,3821.58
+ORD-6033,4/24/2025 0:00,Mansoura,Electronics,2,197.29,Mobile Wallet,394.58
+ORD-6034,7/7/2025 0:00,Mansoura,Furniture,9,249.97,Cash,2249.73
+ORD-6035,11/2/2025 0:00,Alexandria,Kitchenware,6,188.58,Mobile Wallet,1131.48
+ORD-6036,8/1/2025 0:00,Cairo,Furniture,8,102.36,Cash,818.88
+ORD-6037,6/6/2025 0:00,Giza,Furniture,4,118.61,Cash,474.44
+ORD-6038,7/23/2025 0:00,Mansoura,Electronics,15,95.3,Credit Card,1429.5
+ORD-6039,10/27/2025 0:00,Mansoura,Furniture,11,130.4,Mobile Wallet,1434.4
+ORD-6040,7/15/2025 0:00,Cairo,Electronics,11,44.43,Cash,488.73
+ORD-6041,9/14/2025 0:00,Giza,Kitchenware,12,283.59,Mobile Wallet,3403.08
+ORD-6042,10/12/2025 0:00,Cairo,Kitchenware,15,63.22,Cash,948.3
+ORD-6043,4/2/2025 0:00,Giza,Furniture,3,180.84,Cash,542.52
+ORD-6044,1/27/2025 0:00,Giza,Home Decor,14,261.2,Cash,3656.8
+ORD-6045,10/9/2025 0:00,Cairo,Furniture,6,269.04,Cash,1614.24
+ORD-6046,11/21/2025 0:00,Alexandria,Furniture,11,275.26,Mobile Wallet,3027.86
+ORD-6047,10/12/2025 0:00,Giza,Home Decor,7,489.82,Cash,3428.74
+ORD-6048,7/5/2025 0:00,Mansoura,Electronics,3,312.79,Cash,938.37
+ORD-6049,7/14/2025 0:00,Alexandria,Electronics,15,252.03,Cash,3780.45
+ORD-6050,6/10/2025 0:00,Cairo,Home Decor,14,363.3,Credit Card,5086.2
+ORD-6051,3/24/2025 0:00,Giza,Home Decor,7,283.85,Mobile Wallet,1986.95
+ORD-6052,4/19/2025 0:00,Alexandria,Electronics,1,136.7,Cash,136.7
+ORD-6053,1/2/2025 0:00,Mansoura,Furniture,2,27.84,Credit Card,55.68
+ORD-6054,1/13/2025 0:00,Mansoura,Furniture,7,479.55,Mobile Wallet,3356.85
+ORD-6055,8/28/2025 0:00,Mansoura,Kitchenware,6,363.18,Mobile Wallet,2179.08
+ORD-6056,5/30/2025 0:00,Cairo,Kitchenware,7,240.23,Credit Card,1681.61
+ORD-6057,5/2/2025 0:00,Giza,Kitchenware,12,111.64,Credit Card,1339.68
+ORD-6058,4/23/2025 0:00,Mansoura,Electronics,10,119.22,Credit Card,1192.2
+ORD-6059,2/18/2025 0:00,Giza,Home Decor,9,467.85,Mobile Wallet,4210.65
+ORD-6060,4/8/2025 0:00,Giza,Home Decor,7,477.18,Cash,3340.26
+ORD-6061,2/23/2025 0:00,Giza,Kitchenware,3,330.47,Mobile Wallet,991.41
+ORD-6062,11/8/2025 0:00,Mansoura,Kitchenware,10,228.42,Cash,2284.2
+ORD-6063,11/25/2025 0:00,Giza,Kitchenware,2,252.42,Credit Card,504.84
+ORD-6064,12/30/2025 0:00,Cairo,Home Decor,15,142.45,Credit Card,2136.75
+ORD-6065,6/29/2025 0:00,Mansoura,Electronics,7,325.06,Mobile Wallet,2275.42
+ORD-6066,2/28/2025 0:00,Cairo,Furniture,9,358.86,Mobile Wallet,3229.74
+ORD-6067,7/28/2025 0:00,Mansoura,Furniture,15,392.63,Cash,5889.45
+ORD-6068,6/3/2025 0:00,Mansoura,Furniture,3,213.62,Credit Card,640.86
+ORD-6069,10/10/2025 0:00,Alexandria,Furniture,4,357.86,Mobile Wallet,1431.44
+ORD-6070,11/26/2025 0:00,Alexandria,Kitchenware,15,90.34,Mobile Wallet,1355.1
+ORD-6071,11/8/2025 0:00,Cairo,Home Decor,7,468.15,Credit Card,3277.05
+ORD-6072,12/2/2025 0:00,Giza,Furniture,1,127.02,Mobile Wallet,127.02
+ORD-6073,10/16/2025 0:00,Mansoura,Kitchenware,1,86.8,Credit Card,86.8
+ORD-6074,12/1/2025 0:00,Giza,Furniture,2,422.87,Cash,845.74
+ORD-6075,3/16/2025 0:00,Alexandria,Home Decor,14,126.14,Cash,1765.96
+ORD-6076,4/30/2025 0:00,Cairo,Electronics,1,132.64,Mobile Wallet,132.64
+ORD-6077,5/24/2025 0:00,Giza,Home Decor,4,455.65,Credit Card,1822.6
+ORD-6078,11/10/2025 0:00,Giza,Kitchenware,7,338.84,Cash,2371.88
+ORD-6079,9/16/2025 0:00,Giza,Kitchenware,2,377.04,Cash,754.08
+ORD-6080,6/27/2025 0:00,Alexandria,Furniture,14,413.79,Credit Card,5793.06
+ORD-6081,12/15/2025 0:00,Mansoura,Kitchenware,10,368.32,Credit Card,3683.2
+ORD-6082,7/17/2025 0:00,Alexandria,Furniture,11,84.77,Mobile Wallet,932.47
+ORD-6083,11/1/2025 0:00,Alexandria,Kitchenware,3,174.56,Cash,523.68
+ORD-6084,4/22/2025 0:00,Giza,Home Decor,11,307.13,Cash,3378.43
+ORD-6085,1/17/2025 0:00,Mansoura,Kitchenware,10,107.12,Credit Card,1071.2
+ORD-6086,5/15/2025 0:00,Giza,Kitchenware,11,489.04,Mobile Wallet,5379.44
+ORD-6087,3/20/2025 0:00,Alexandria,Kitchenware,1,366.69,Credit Card,366.69
+ORD-6088,5/2/2025 0:00,Mansoura,Kitchenware,14,347.99,Credit Card,4871.86
+ORD-6089,12/15/2025 0:00,Mansoura,Furniture,13,148.33,Cash,1928.29
+ORD-6090,5/8/2025 0:00,Giza,Electronics,9,253.53,Cash,2281.77
+ORD-6091,10/9/2025 0:00,Alexandria,Electronics,10,321.84,Credit Card,3218.4
+ORD-6092,4/5/2025 0:00,Alexandria,Electronics,2,488.49,Mobile Wallet,976.98
+ORD-6093,11/23/2025 0:00,Alexandria,Kitchenware,8,136.22,Mobile Wallet,1089.76
+ORD-6094,11/12/2025 0:00,Giza,Home Decor,6,495.83,Credit Card,2974.98
+ORD-6095,9/13/2025 0:00,Mansoura,Furniture,14,67.32,Cash,942.48
+ORD-6096,1/20/2025 0:00,Cairo,Furniture,13,237.46,Mobile Wallet,3086.98
+ORD-6097,10/19/2025 0:00,Cairo,Kitchenware,3,148.44,Mobile Wallet,445.32
+ORD-6098,5/9/2025 0:00,Alexandria,Furniture,8,166.13,Cash,1329.04
+ORD-6099,1/28/2025 0:00,Giza,Electronics,10,350.73,Credit Card,3507.3
+ORD-6100,11/30/2025 0:00,Mansoura,Furniture,8,214.24,Mobile Wallet,1713.92
+ORD-6101,6/20/2025 0:00,Alexandria,Furniture,15,71.46,Mobile Wallet,1071.9
+ORD-6102,6/15/2025 0:00,Giza,Home Decor,12,419.7,Cash,5036.4
+ORD-6103,10/16/2025 0:00,Giza,Furniture,6,240.58,Mobile Wallet,1443.48
+ORD-6104,5/6/2025 0:00,Giza,Kitchenware,14,109.58,Cash,1534.12
+ORD-6105,12/1/2025 0:00,Alexandria,Kitchenware,4,434.23,Cash,1736.92
+ORD-6106,1/26/2025 0:00,Alexandria,Home Decor,6,238.4,Cash,1430.4
+ORD-6107,9/30/2025 0:00,Cairo,Furniture,15,136.61,Cash,2049.15
+ORD-6108,8/12/2025 0:00,Alexandria,Electronics,5,401.36,Mobile Wallet,2006.8
+ORD-6109,6/18/2025 0:00,Alexandria,Kitchenware,13,483.76,Cash,6288.88
+ORD-6110,8/18/2025 0:00,Alexandria,Home Decor,4,368.84,Cash,1475.36
+ORD-6111,11/3/2025 0:00,Mansoura,Kitchenware,14,158.09,Mobile Wallet,2213.26
+ORD-6112,1/15/2025 0:00,Giza,Furniture,1,88.31,Credit Card,88.31
+ORD-6113,8/1/2025 0:00,Cairo,Kitchenware,10,390.44,Credit Card,3904.4
+ORD-6114,3/8/2025 0:00,Cairo,Furniture,1,97.72,Credit Card,97.72
+ORD-6115,9/14/2025 0:00,Alexandria,Kitchenware,4,207.16,Credit Card,828.64
+ORD-6116,1/12/2025 0:00,Mansoura,Furniture,13,241.06,Cash,3133.78
+ORD-6117,7/17/2025 0:00,Cairo,Electronics,1,490.04,Cash,490.04
+ORD-6118,7/23/2025 0:00,Mansoura,Home Decor,4,473.82,Credit Card,1895.28
+ORD-6119,6/1/2025 0:00,Alexandria,Electronics,8,52.97,Mobile Wallet,423.76
+ORD-6120,6/14/2025 0:00,Cairo,Furniture,12,168.42,Cash,2021.04
+ORD-6121,4/20/2025 0:00,Alexandria,Home Decor,3,429.99,Mobile Wallet,1289.97
+ORD-6122,10/14/2025 0:00,Giza,Kitchenware,15,458.13,Cash,6871.95
+ORD-6123,9/21/2025 0:00,Giza,Furniture,1,42.75,Credit Card,42.75
+ORD-6124,5/10/2025 0:00,Mansoura,Kitchenware,13,92.11,Mobile Wallet,1197.43
+ORD-6125,9/18/2025 0:00,Cairo,Kitchenware,12,403.47,Cash,4841.64
+ORD-6126,1/1/2026 0:00,Mansoura,Home Decor,3,110.54,Credit Card,331.62
+ORD-6127,11/18/2025 0:00,Cairo,Kitchenware,3,61.95,Mobile Wallet,185.85
+ORD-6128,1/23/2025 0:00,Giza,Kitchenware,15,272.88,Cash,4093.2
+ORD-6129,3/10/2025 0:00,Alexandria,Furniture,13,38.95,Cash,506.35
+ORD-6130,7/31/2025 0:00,Mansoura,Home Decor,4,293.3,Credit Card,1173.2
+ORD-6131,11/4/2025 0:00,Alexandria,Home Decor,13,244.98,Credit Card,3184.74
+ORD-6132,4/2/2025 0:00,Giza,Home Decor,6,435.06,Mobile Wallet,2610.36
+ORD-6133,6/18/2025 0:00,Giza,Electronics,9,21.72,Cash,195.48
+ORD-6134,2/5/2025 0:00,Giza,Kitchenware,11,355.67,Credit Card,3912.37
+ORD-6135,10/1/2025 0:00,Giza,Kitchenware,13,476.55,Cash,6195.15
+ORD-6136,8/6/2025 0:00,Cairo,Furniture,7,439.23,Mobile Wallet,3074.61
+ORD-6137,1/23/2025 0:00,Alexandria,Furniture,2,351,Cash,702
+ORD-6138,10/1/2025 0:00,Alexandria,Electronics,7,77.71,Mobile Wallet,543.97
+ORD-6139,11/2/2025 0:00,Giza,Electronics,13,354.06,Credit Card,4602.78
+ORD-6140,5/29/2025 0:00,Cairo,Home Decor,8,445.28,Mobile Wallet,3562.24
+ORD-6141,6/28/2025 0:00,Alexandria,Home Decor,8,324.21,Mobile Wallet,2593.68
+ORD-6142,12/6/2025 0:00,Mansoura,Home Decor,6,314.64,Mobile Wallet,1887.84
+ORD-6143,11/5/2025 0:00,Giza,Home Decor,6,297.64,Credit Card,1785.84
+ORD-6144,1/27/2025 0:00,Cairo,Kitchenware,11,262.37,Mobile Wallet,2886.07
+ORD-6145,3/10/2025 0:00,Alexandria,Kitchenware,14,492.87,Mobile Wallet,6900.18
+ORD-6146,8/8/2025 0:00,Cairo,Furniture,2,473.81,Credit Card,947.62
+ORD-6147,1/2/2025 0:00,Cairo,Electronics,9,253.33,Cash,2279.97
+ORD-6148,1/21/2025 0:00,Mansoura,Kitchenware,9,476.9,Credit Card,4292.1
+ORD-6149,2/28/2025 0:00,Alexandria,Home Decor,3,303.37,Credit Card,910.11
+ORD-6150,1/11/2025 0:00,Giza,Home Decor,13,112.67,Mobile Wallet,1464.71
+ORD-6151,10/13/2025 0:00,Mansoura,Kitchenware,10,29.16,Credit Card,291.6
+ORD-6152,3/11/2025 0:00,Giza,Furniture,13,479.38,Cash,6231.94
+ORD-6153,3/10/2025 0:00,Alexandria,Electronics,15,43.98,Cash,659.7
+ORD-6154,1/1/2026 0:00,Alexandria,Home Decor,11,231.71,Credit Card,2548.81
+ORD-6155,5/9/2025 0:00,Mansoura,Kitchenware,9,239.4,Mobile Wallet,2154.6
+ORD-6156,12/11/2025 0:00,Alexandria,Home Decor,8,376.94,Mobile Wallet,3015.52
+ORD-6157,10/17/2025 0:00,Mansoura,Furniture,11,33.32,Credit Card,366.52
+ORD-6158,2/28/2025 0:00,Alexandria,Electronics,9,415.85,Mobile Wallet,3742.65
+ORD-6159,4/15/2025 0:00,Mansoura,Furniture,13,322.79,Credit Card,4196.27
+ORD-6160,9/30/2025 0:00,Giza,Home Decor,13,439.96,Credit Card,5719.48
+ORD-6161,3/18/2025 0:00,Giza,Kitchenware,13,241.39,Mobile Wallet,3138.07
+ORD-6162,10/29/2025 0:00,Mansoura,Kitchenware,14,152.32,Cash,2132.48
+ORD-6163,4/7/2025 0:00,Mansoura,Home Decor,5,408.67,Mobile Wallet,2043.35
+ORD-6164,1/18/2025 0:00,Mansoura,Kitchenware,10,492.82,Cash,4928.2
+ORD-6165,4/6/2025 0:00,Cairo,Home Decor,8,126.92,Cash,1015.36
+ORD-6166,7/30/2025 0:00,Alexandria,Furniture,8,57.96,Mobile Wallet,463.68
+ORD-6167,7/26/2025 0:00,Cairo,Home Decor,10,310.49,Credit Card,3104.9
+ORD-6168,7/8/2025 0:00,Cairo,Electronics,9,226.86,Cash,2041.74
+ORD-6169,5/15/2025 0:00,Mansoura,Home Decor,10,40.14,Cash,401.4
+ORD-6170,11/18/2025 0:00,Cairo,Kitchenware,3,227.37,Credit Card,682.11
+ORD-6171,12/20/2025 0:00,Alexandria,Furniture,4,467.37,Mobile Wallet,1869.48
+ORD-6172,7/7/2025 0:00,Mansoura,Home Decor,14,431.54,Credit Card,6041.56
+ORD-6173,1/20/2025 0:00,Mansoura,Home Decor,2,362.87,Cash,725.74
+ORD-6174,2/3/2025 0:00,Giza,Kitchenware,7,185.48,Credit Card,1298.36
+ORD-6175,11/22/2025 0:00,Alexandria,Kitchenware,5,350.84,Credit Card,1754.2
+ORD-6176,6/12/2025 0:00,Alexandria,Home Decor,5,103.4,Mobile Wallet,517
+ORD-6177,8/18/2025 0:00,Cairo,Kitchenware,5,418.01,Mobile Wallet,2090.05
+ORD-6178,6/30/2025 0:00,Mansoura,Home Decor,7,200.41,Credit Card,1402.87
+ORD-6179,8/4/2025 0:00,Mansoura,Electronics,6,363.99,Mobile Wallet,2183.94
+ORD-6180,7/19/2025 0:00,Giza,Home Decor,8,372.92,Credit Card,2983.36
+ORD-6181,1/6/2025 0:00,Cairo,Kitchenware,4,204.97,Cash,819.88
+ORD-6182,9/4/2025 0:00,Mansoura,Home Decor,2,159.55,Credit Card,319.1
+ORD-6183,9/10/2025 0:00,Mansoura,Home Decor,1,174.8,Mobile Wallet,174.8
+ORD-6184,6/6/2025 0:00,Cairo,Electronics,14,375.87,Credit Card,5262.18
+ORD-6185,2/28/2025 0:00,Alexandria,Home Decor,3,445.05,Credit Card,1335.15
+ORD-6186,8/25/2025 0:00,Mansoura,Electronics,15,362.14,Cash,5432.1
+ORD-6187,3/21/2025 0:00,Giza,Furniture,4,64.3,Credit Card,257.2
+ORD-6188,5/3/2025 0:00,Alexandria,Home Decor,11,96.72,Cash,1063.92
+ORD-6189,11/8/2025 0:00,Giza,Kitchenware,10,285.14,Credit Card,2851.4
+ORD-6190,8/1/2025 0:00,Alexandria,Furniture,6,47.66,Mobile Wallet,285.96
+ORD-6191,11/14/2025 0:00,Mansoura,Electronics,6,318.6,Credit Card,1911.6
+ORD-6192,10/4/2025 0:00,Cairo,Electronics,7,395.08,Mobile Wallet,2765.56
+ORD-6193,1/7/2025 0:00,Alexandria,Home Decor,10,225.9,Cash,2259
+ORD-6194,5/30/2025 0:00,Giza,Furniture,3,497.52,Mobile Wallet,1492.56
+ORD-6195,5/17/2025 0:00,Giza,Furniture,12,244.96,Cash,2939.52
+ORD-6196,3/16/2025 0:00,Mansoura,Electronics,2,231.94,Cash,463.88
+ORD-6197,10/8/2025 0:00,Cairo,Home Decor,4,496.48,Cash,1985.92
+ORD-6198,7/20/2025 0:00,Giza,Furniture,11,49.59,Credit Card,545.49
+ORD-6199,9/9/2025 0:00,Mansoura,Electronics,13,438.41,Cash,5699.33
