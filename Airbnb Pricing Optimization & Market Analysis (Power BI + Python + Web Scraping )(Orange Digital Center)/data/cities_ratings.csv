@@ -1,0 +1,11 @@
+UA_Name,Housing,Cost of Living,Safety,Healthcare,Education,Environmental Quality,Economy,Taxation,Internet Access,Leisure & Culture,Housing_level,Cost of Living_level,Safety_level,Healthcare_level,Education_level,Environmental Quality_level,Economy_level,Taxation_level,Internet Access_level,Leisure & Culture_level
+amsterdam,3.053,3.824,8.5035,7.907333333,6.18,7.59725,5.053,4.955,4.523,8.874,Low,Medium,High,High,Medium,High,Medium,Medium,Medium,High
+athens,9.0525,6.5,6.7585,7.153,3.1625,3.80225,3.32,4.1665,2.228,7.876,High,Medium,Medium,High,Low,Medium,Low,Medium,Low,High
+barcelona,6.323,6.074,7.4075,8.403333333,5.029,3.6655,4.296,3.894,6.468,8.5915,Medium,Medium,High,High,Medium,Medium,Medium,Medium,Medium,High
+berlin,6.395,5.524,7.2515,7.990666667,7.019,6.7715,5.3735,3.9035,4.678,8.881,Medium,Medium,High,High,High,Medium,Medium,Medium,Medium,High
+budapest,8.5705,7.948,8.2185,5.746,3.693,5.2875,4.946,6.1075,6.759,8.253,High,High,High,Medium,Medium,Medium,Medium,Medium,Medium,High
+lisbon,6.734,7.004,8.438,7.860333333,4.48,6.4115,3.483,4.1575,6.394,7.8335,Medium,High,High,High,Medium,Medium,Low,Medium,Medium,High
+london,1.0,3.94,7.2435,8.018,9.027,5.54775,5.438,5.9545,5.8455,9.4555,Low,Medium,High,High,High,Medium,Medium,Medium,Medium,High
+paris,3.5835,3.664,6.2465,8.207666667,7.085,4.36225,4.2045,2.648,9.716,9.8165,Medium,Medium,Medium,High,High,Medium,Medium,Low,High,High
+rome,5.6025,5.323,6.6045,7.863666667,4.157,4.2765,3.3625,2.4365,4.491,9.11,Medium,Medium,Medium,High,Medium,Medium,Low,Low,Medium,High
+vienna,6.314,5.111,8.5965,8.198,4.8545,9.27,4.663,2.666,6.173,8.5215,Medium,Medium,High,High,Medium,High,Medium,Low,Medium,High
